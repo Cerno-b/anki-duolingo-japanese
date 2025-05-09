@@ -71,8 +71,7 @@ When importing the deck, use the following Anki settings:
 * Allow HTML: YES, otherwise the line breaks will not work
 * Note type: basic
 * Deck: Whatever deck you want to add this to
-* Existing notes: I prefer duplicate here, because some imports may collide 
-* with existing cards, like に and ふたつ for the number two
+* Existing notes: I prefer duplicate here, because some imports may collide with existing cards, like に and ふたつ for the number two
 * Match scope: Note Type
 * Field Mapping: leave as is (japanese example, english example, "front")
 
@@ -88,12 +87,16 @@ Open your Duolingo website (not the app) and navigate to "PRACTICE" -> "Words".
 This is your word list. Click on "load more" at the bottom to reveal as much of 
 the vocabulary as you want to export.
 ### Step 2 
-Copy/paste the table to a text file you call `duolingo.txt` inside the repo's 
-main directory.
+Copy/paste the table (and just the table) into the `duolingo.txt` file inside 
+the repo's main directory. Double check that it only contains the table, and
+do not change anything besides what you pasted (leave the weird line breaks
+as they are)
 ### Step 3
 Run the first python file `01_fix_lines.py` by calling `python 01_fix_lines.py` 
 from the command line. Double-clicking the script might also work, depending on 
-your setup. This script fixes weird line endings for the import.
+your setup. This script fixes weird line breaks for the import. Note that this
+script will write back to the same file, so avoid doing any manual changes
+before running the script.
 ### Step 4
 The next step is a bit of manual work: You have to get the correct kana 
 transcriptions for any kanji you see in the file. So open up the `duolingo.txt` 
@@ -120,19 +123,20 @@ This should result in something like this:
 Now you can take these lines and replace them in your `duolingo.txt` file. You 
 may also want to make sure that ChatGPT got this right. Double check that the 
 lines with kanji now have an extra semicolon with the kana transcription. The 
-lines that are already kana only can stay as they are.
+lines that already only contain kana can stay as they are.
 ### Step 6
 Run the second script `02_prep_import.py`. This will create a new 
 `duolingo_import.txt` file. 
 ### Step 7
-I would advise you to keep these two files (I save mine in my `history` folder), 
-so you will know what block of vocabulary you need to copy next as you advance 
-your Duolingo journey.
+I would advise you to keep the `duolingo.txt` and `duolingo_import.txt` files 
+(I save mine in my `history` folder), so you will know what block of vocabulary 
+you need to copy next as you advance your Duolingo journey.
 ### Step 8
 Open Anki on your computer
 ### Step 9
-Sync and backup your current deck
+Sync and backup your current deck, to be safe if anything goes wrong.
 ### Step 10
-Import the new vocabulary as described above in section [Importing the deck](#Importing the deck). 
+Import the new vocabulary from your `duolingo_import.txt` as described above 
+in section [Importing the deck](#importing-the-deck). 
 ### Step 11
 Sync again to update the deck on all your devices.
