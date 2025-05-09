@@ -1,0 +1,38 @@
+runs, run;はしります;front
+はしります;runs, run;back
+will have, drink, having;飲みます<br>のみます;front
+飲みます;will have, drink, having<br>のみます;back
+pasta;パスタ;front
+パスタ;pasta;back
+sleep, go to sleep, will go to sleep;ねます;front
+ねます;sleep, go to sleep, will go to sleep;back
+take a shower;シャワーをあびます;front
+シャワーをあびます;take a shower;back
+check emails;メールを読みます<br>メールをよみます;front
+メールを読みます;check emails<br>メールをよみます;back
+tomorrow;あした;front
+あした;tomorrow;back
+next week;らいしゅう;front
+らいしゅう;next week;back
+volleyball;バレーボール;front
+バレーボール;volleyball;back
+every week;まいしゅう;front
+まいしゅう;every week;back
+four o'clock;四時<br>よじ;front
+四時;four o'clock<br>よじ;back
+make;つくります;front
+つくります;make;back
+eat, am going to eat, will eat;食べます<br>たべます;front
+食べます;eat, am going to eat, will eat<br>たべます;back
+(at) what time;何時に<br>なんじに;front
+何時に;(at) what time<br>なんじに;back
+get up, going to wake up, wake up;おきます;front
+おきます;get up, going to wake up, wake up;back
+newspaper;新聞<br>しんぶん;front
+新聞;newspaper<br>しんぶん;back
+radio;ラジオ;front
+ラジオ;radio;back
+when, what time;何時<br>なんじ;front
+何時;when, what time<br>なんじ;back
+always, all the time, never;いつも;front
+いつも;always, all the time, never;back

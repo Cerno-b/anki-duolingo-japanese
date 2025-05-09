@@ -1,0 +1,52 @@
+ジャケット;jacket;front
+jacket;ジャケット;back
+たかい;expensive, big, tall;front
+expensive, big, tall;たかい;back
+くろい;black;front
+black;くろい;back
+みせ;store;front
+store;みせ;back
+ありがとうございます;thank you;front
+thank you;ありがとうございます;back
+千;thousand<br>せん;front
+thousand;千<br>せん;back
+いくら;how much;front
+how much;いくら;back
+ネクタイ;tie, necktie, ties;front
+tie, necktie, ties;ネクタイ;back
+えん;yen;front
+yen;えん;back
+やすい;cheap, inexpensive;front
+cheap, inexpensive;やすい;back
+百;hundred<br>ひゃく;front
+hundred;百<br>ひゃく;back
+あの;those, ah, that (over there);front
+those, ah, that (over there);あの;back
+あおい;blue;front
+blue;あおい;back
+いい;good, like, well;front
+good, like, well;いい;back
+ドレス;dress;front
+dress;ドレス;back
+すてき;lovely, nice, cute;front
+lovely, nice, cute;すてき;back
+がほしいです;want;front
+want;がほしいです;back
+スカート;skirt;front
+skirt;スカート;back
+Tシャツ;t-shirt;front
+t-shirt;Tシャツ;back
+新しい;new, newer<br>あたらしい;front
+new, newer;新しい<br>あたらしい;back
+ね;isn't it?;front
+isn't it?;ね;back
+ふく;clothes;front
+clothes;ふく;back
+ダサい;hideous;front
+hideous;ダサい;back
+はちょっと;I don't really like, doesn't work very well, kind of;front
+I don't really like, doesn't work very well, kind of;はちょっと;back
+さいふ;wallet;front
+wallet;さいふ;back
+古い;old<br>ふるい;front
+old;古い<br>ふるい;back

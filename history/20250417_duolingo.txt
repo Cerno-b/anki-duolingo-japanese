@@ -1,0 +1,22 @@
+アイスコーヒー;iced coffee
+アイスクリーム;ice cream, ice creams
+こうちゃ;black teas, black tea, tea
+小さい;small, little;ちいさい
+すこし;a bit
+みそしる;miso soup
+サラダ;salad, salads
+そば;soba
+大きい;big;おおきい
+おにぎり;rice balls, rice ball, onigiri
+よっつ;four
+ええと;um
+みっつ;three
+じゃあ;well then, well, see you
+ふたつ;two
+あ;ah, oh
+ひとつ;one
+水;water, waters;みず
+レストラン;restaurant
+ていしょく;meal set, meal sets
+うどん;udon
+てんぷら;tempura

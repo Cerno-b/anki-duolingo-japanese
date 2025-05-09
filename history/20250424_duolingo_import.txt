@@ -1,0 +1,26 @@
+ゲーム;video games;front
+video games;ゲーム;back
+からて;karate;front
+karate;からて;back
+でかけます;go out, am going to go out;front
+go out, am going to go out;でかけます;back
+土曜日;Saturday, Saturdays<br>どようび;front
+Saturday, Saturdays;土曜日<br>どようび;back
+買います;will buy<br>かいます;front
+will buy;買います<br>かいます;back
+スポーツ;sports;front
+sports;スポーツ;back
+ヨガ;yoga;front
+yoga;ヨガ;back
+ともだち;friend, friends;front
+friend, friends;ともだち;back
+ドラマ;drama;front
+drama;ドラマ;back
+あそびます;hang out, hangs out, (I) will play;front
+hang out, hangs out, (I) will play;あそびます;back
+およぎます;swim, will swim, swims;front
+swim, will swim, swims;およぎます;back
+しゅうまつ;weekend;front
+weekend;しゅうまつ;back
+ひとりで;by myself, by herself, alone;front
+by myself, by herself, alone;ひとりで;back

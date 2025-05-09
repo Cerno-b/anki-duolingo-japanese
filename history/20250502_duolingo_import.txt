@@ -1,0 +1,10 @@
+video;どうが;front
+どうが;video;back
+judo;じゅうどう;front
+じゅうどう;judo;back
+tennis;テニス;front
+テニス;tennis;back
+speaks, speak, tells;話します<br>はなします;front
+話します;speaks, speak, tells<br>はなします;back
+Sunday;日曜日<br>にちようび;front
+日曜日;Sunday<br>にちようび;back

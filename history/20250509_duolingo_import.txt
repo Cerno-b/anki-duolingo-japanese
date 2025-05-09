@@ -1,0 +1,50 @@
+romance;れんあい;front
+れんあい;romance;back
+comedy;コメディ;front
+コメディ;comedy;back
+really;ほんとうですか;front
+ほんとうですか;really;back
+action;アクション;front
+アクション;action;back
+... of the US, American, ... of the United States;アメリカの;front
+アメリカの;... of the US, American, ... of the United States;back
+any, what kind of, what (sort of);どんな;front
+どんな;any, what kind of, what (sort of);back
+fantasy;ファンタジー;front
+ファンタジー;fantasy;back
+horror;ホラー;front
+ホラー;horror;back
+do you like;がすきですか;front
+がすきですか;do you like;back
+do you have a hobby;しゅみはありますか;front
+しゅみはありますか;do you have a hobby;back
+mystery;ミステリー;front
+ミステリー;mystery;back
+K-pop;Kポップ;front
+Kポップ;K-pop;back
+Japan's, of Japan, Japanese;日本の;front
+日本の;Japan's, of Japan, Japanese;back
+like;がすきです;front
+がすきです;like;back
+Vietnam;ベトナム;front
+ベトナム;Vietnam;back
+Korea, korean;かんこく;front
+かんこく;Korea, korean;back
+she, girlfriend, her;かのじょ;front
+かのじょ;she, girlfriend, her;back
+China;ちゅうごく;front
+ちゅうごく;China;back
+Mr./Ms.;さんは;front
+さんは;Mr./Ms.;back
+boyfriend;かれし;front
+かれし;boyfriend;back
+Andrew;アンドリュー;front
+アンドリュー;Andrew;back
+tell, say, says;と言います<br>といいます;front
+と言います;tell, say, says<br>といいます;back
+Erica, Erika;エリカ;front
+エリカ;Erica, Erika;back
+this, these, (over) here;こちら;front
+こちら;this, these, (over) here;back
+Daniel;ダニエル;front
+ダニエル;Daniel;back

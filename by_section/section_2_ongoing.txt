@@ -1,0 +1,402 @@
+romance;れんあい;front
+れんあい;romance;back
+comedy;コメディ;front
+コメディ;comedy;back
+really;ほんとうですか;front
+ほんとうですか;really;back
+action;アクション;front
+アクション;action;back
+... of the US, American, ... of the United States;アメリカの;front
+アメリカの;... of the US, American, ... of the United States;back
+any, what kind of, what (sort of);どんな;front
+どんな;any, what kind of, what (sort of);back
+fantasy;ファンタジー;front
+ファンタジー;fantasy;back
+horror;ホラー;front
+ホラー;horror;back
+do you like;がすきですか;front
+がすきですか;do you like;back
+do you have a hobby;しゅみはありますか;front
+しゅみはありますか;do you have a hobby;back
+mystery;ミステリー;front
+ミステリー;mystery;back
+K-pop;Kポップ;front
+Kポップ;K-pop;back
+Japan's, of Japan, Japanese;日本の;front
+日本の;Japan's, of Japan, Japanese;back
+like;がすきです;front
+がすきです;like;back
+Vietnam;ベトナム;front
+ベトナム;Vietnam;back
+Korea, korean;かんこく;front
+かんこく;Korea, korean;back
+she, girlfriend, her;かのじょ;front
+かのじょ;she, girlfriend, her;back
+China;ちゅうごく;front
+ちゅうごく;China;back
+Mr./Ms.;さんは;front
+さんは;Mr./Ms.;back
+boyfriend;かれし;front
+かれし;boyfriend;back
+Andrew;アンドリュー;front
+アンドリュー;Andrew;back
+tell, say, says;と言います<br>といいます;front
+と言います;tell, say, says<br>といいます;back
+Erica, Erika;エリカ;front
+エリカ;Erica, Erika;back
+this, these, (over) here;こちら;front
+こちら;this, these, (over) here;back
+Daniel;ダニエル;front
+ダニエル;Daniel;back
+runs, run;はしります;front
+はしります;runs, run;back
+will have, drink, having;飲みます<br>のみます;front
+飲みます;will have, drink, having<br>のみます;back
+pasta;パスタ;front
+パスタ;pasta;back
+sleep, go to sleep, will go to sleep;ねます;front
+ねます;sleep, go to sleep, will go to sleep;back
+take a shower;シャワーをあびます;front
+シャワーをあびます;take a shower;back
+check emails;メールを読みます<br>メールをよみます;front
+メールを読みます;check emails<br>メールをよみます;back
+tomorrow;あした;front
+あした;tomorrow;back
+next week;らいしゅう;front
+らいしゅう;next week;back
+volleyball;バレーボール;front
+バレーボール;volleyball;back
+every week;まいしゅう;front
+まいしゅう;every week;back
+four o'clock;四時<br>よじ;front
+四時;four o'clock<br>よじ;back
+make;つくります;front
+つくります;make;back
+eat, am going to eat, will eat;食べます<br>たべます;front
+食べます;eat, am going to eat, will eat<br>たべます;back
+(at) what time;何時に<br>なんじに;front
+何時に;(at) what time<br>なんじに;back
+get up, going to wake up, wake up;おきます;front
+おきます;get up, going to wake up, wake up;back
+newspaper;新聞<br>しんぶん;front
+新聞;newspaper<br>しんぶん;back
+radio;ラジオ;front
+ラジオ;radio;back
+when, what time;何時<br>なんじ;front
+何時;when, what time<br>なんじ;back
+always, all the time, never;いつも;front
+いつも;always, all the time, never;back
+exit;でぐち;front
+でぐち;exit;back
+vending machines, vending machine;じはんき;front
+じはんき;vending machines, vending machine;back
+storage lockers;コインロッカー;front
+コインロッカー;storage lockers;back
+close;ちかい;front
+ちかい;close;back
+cafe;カフェ;front
+カフェ;cafe;back
+the second floor, two;にかい;front
+にかい;the second floor, two;back
+stairs;かいだん;front
+かいだん;stairs;back
+outlet;コンセント;front
+コンセント;outlet;back
+far;とおい;front
+とおい;far;back
+phone;でんわ;front
+でんわ;phone;back
+underground level;ちか;front
+ちか;underground level;back
+taxi;タクシー;front
+タクシー;taxi;back
+elevator;エレベーター;front
+エレベーター;elevator;back
+restroom;おてあらい;front
+おてあらい;restroom;back
+wifi;wifi;front
+wifi;wifi;back
+there are no, (it) is not, has nothing;ありません;front
+ありません;there are no, (it) is not, has nothing;back
+trash can;ゴミばこ;front
+ゴミばこ;trash can;back
+transfer;のりかえ;front
+のりかえ;transfer;back
+over there;あそこ;front
+あそこ;over there;back
+ticket gate;かいさつ;front
+かいさつ;ticket gate;back
+is (there), is (it), are (there);ありますか;front
+ありますか;is (there), is (it), are (there);back
+first floor;いっかい;front
+いっかい;first floor;back
+platform;ホーム;front
+ホーム;platform;back
+video;どうが;front
+どうが;video;back
+judo;じゅうどう;front
+じゅうどう;judo;back
+tennis;テニス;front
+テニス;tennis;back
+speaks, speak, tells;話します<br>はなします;front
+話します;speaks, speak, tells<br>はなします;back
+Sunday;日曜日<br>にちようび;front
+日曜日;Sunday<br>にちようび;back
+ゲーム;video games;front
+video games;ゲーム;back
+からて;karate;front
+karate;からて;back
+でかけます;go out, am going to go out;front
+go out, am going to go out;でかけます;back
+土曜日;Saturday, Saturdays<br>どようび;front
+Saturday, Saturdays;土曜日<br>どようび;back
+買います;will buy<br>かいます;front
+will buy;買います<br>かいます;back
+スポーツ;sports;front
+sports;スポーツ;back
+ヨガ;yoga;front
+yoga;ヨガ;back
+ともだち;friend, friends;front
+friend, friends;ともだち;back
+ドラマ;drama;front
+drama;ドラマ;back
+あそびます;hang out, hangs out, (I) will play;front
+hang out, hangs out, (I) will play;あそびます;back
+およぎます;swim, will swim, swims;front
+swim, will swim, swims;およぎます;back
+しゅうまつ;weekend;front
+weekend;しゅうまつ;back
+ひとりで;by myself, by herself, alone;front
+by myself, by herself, alone;ひとりで;back
+アイスコーヒー;iced coffee;front
+iced coffee;アイスコーヒー;back
+アイスクリーム;ice cream, ice creams;front
+ice cream, ice creams;アイスクリーム;back
+こうちゃ;black teas, black tea, tea;front
+black teas, black tea, tea;こうちゃ;back
+小さい;small, little<br>ちいさい;front
+small, little;小さい<br>ちいさい;back
+すこし;a bit;front
+a bit;すこし;back
+みそしる;miso soup;front
+miso soup;みそしる;back
+サラダ;salad, salads;front
+salad, salads;サラダ;back
+そば;soba;front
+soba;そば;back
+大きい;big<br>おおきい;front
+big;大きい<br>おおきい;back
+おにぎり;rice balls, rice ball, onigiri;front
+rice balls, rice ball, onigiri;おにぎり;back
+よっつ;four;front
+four;よっつ;back
+ええと;um;front
+um;ええと;back
+みっつ;three;front
+three;みっつ;back
+じゃあ;well then, well, see you;front
+well then, well, see you;じゃあ;back
+ふたつ;two;front
+two;ふたつ;back
+あ;ah, oh;front
+ah, oh;あ;back
+ひとつ;one;front
+one;ひとつ;back
+水;water, waters<br>みず;front
+water, waters;水<br>みず;back
+レストラン;restaurant;front
+restaurant;レストラン;back
+ていしょく;meal set, meal sets;front
+meal set, meal sets;ていしょく;back
+うどん;udon;front
+udon;うどん;back
+てんぷら;tempura;front
+tempura;てんぷら;back
+ジャケット;jacket;front
+jacket;ジャケット;back
+たかい;expensive, big, tall;front
+expensive, big, tall;たかい;back
+くろい;black;front
+black;くろい;back
+みせ;store;front
+store;みせ;back
+ありがとうございます;thank you;front
+thank you;ありがとうございます;back
+千;thousand<br>せん;front
+thousand;千<br>せん;back
+いくら;how much;front
+how much;いくら;back
+ネクタイ;tie, necktie, ties;front
+tie, necktie, ties;ネクタイ;back
+えん;yen;front
+yen;えん;back
+やすい;cheap, inexpensive;front
+cheap, inexpensive;やすい;back
+百;hundred<br>ひゃく;front
+hundred;百<br>ひゃく;back
+あの;those, ah, that (over there);front
+those, ah, that (over there);あの;back
+あおい;blue;front
+blue;あおい;back
+いい;good, like, well;front
+good, like, well;いい;back
+ドレス;dress;front
+dress;ドレス;back
+すてき;lovely, nice, cute;front
+lovely, nice, cute;すてき;back
+がほしいです;want;front
+want;がほしいです;back
+スカート;skirt;front
+skirt;スカート;back
+Tシャツ;t-shirt;front
+t-shirt;Tシャツ;back
+新しい;new, newer<br>あたらしい;front
+new, newer;新しい<br>あたらしい;back
+ね;isn't it?;front
+isn't it?;ね;back
+ふく;clothes;front
+clothes;ふく;back
+ダサい;hideous;front
+hideous;ダサい;back
+はちょっと;I don't really like, doesn't work very well, kind of;front
+I don't really like, doesn't work very well, kind of;はちょっと;back
+さいふ;wallet;front
+wallet;さいふ;back
+古い;old<br>ふるい;front
+old;古い<br>ふるい;back
+ばんごはん;dinner;front
+dinner;ばんごはん;back
+まいばん;every night;front
+every night;まいばん;back
+九時;nine o'clock<br>くじ;front
+nine o'clock;九時<br>くじ;back
+半;thirty<br>はん;front
+thirty;半<br>はん;back
+八;eight<br>はち;front
+eight;八<br>はち;back
+べんとう;boxed lunch;front
+boxed lunch;べんとう;back
+ひるごはん;lunch;front
+lunch;ひるごはん;back
+十二;twelve<br>じゅうに;front
+twelve;十二<br>じゅうに;back
+十;ten<br>じゅう;front
+ten;十<br>じゅう;back
+十一;eleven<br>じゅういち;front
+eleven;十一<br>じゅういち;back
+あさごはん;breakfast;front
+breakfast;あさごはん;back
+七時;seven o'clock<br>しちじ;front
+seven o'clock;七時<br>しちじ;back
+時;o'clock<br>じ;front
+o'clock;時<br>じ;back
+コーヒー;coffee;front
+coffee;コーヒー;back
+まいあさ;every morning;front
+every morning;まいあさ;back
+のみます;drink, drinks, (will) drink;front
+drink, drinks, (will) drink;のみます;back
+ジュース;juice;front
+juice;ジュース;back
+まいにち;every day;front
+every day;まいにち;back
+パン;bread;front
+bread;パン;back
+サンドイッチ;sandwich;front
+sandwich;サンドイッチ;back
+たべます;eat, eats;front
+eat, eats;たべます;back
+Jポップ;J-pop;front
+J-pop;Jポップ;back
+まんが;manga;front
+manga;まんが;back
+アニメ;anime;front
+anime;アニメ;back
+やきゅう;baseball;front
+baseball;やきゅう;back
+ざっし;magazines;front
+magazines;ざっし;back
+本;books<br>ほん;front
+books;本<br>ほん;back
+読みます;read, will read, reads<br>よみます;front
+read, will read, reads;読みます<br>よみます;back
+ニュース;news;front
+news;ニュース;back
+おんがく;music;front
+music;おんがく;back
+ロック;rock;front
+rock;ロック;back
+ききます;listen, listens, ask;front
+listen, listens, ask;ききます;back
+ジャズ;jazz;front
+jazz;ジャズ;back
+サッカー;soccer;front
+soccer;サッカー;back
+ときどき;sometimes;front
+sometimes;ときどき;back
+します;makes, are doing, make;front
+makes, are doing, make;します;back
+バスケットボール;basketball;front
+basketball;バスケットボール;back
+を;through, with, for;front
+through, with, for;を;back
+よく;often;front
+often;よく;back
+えいが;movies;front
+movies;えいが;back
+テレビ;TV;front
+TV;テレビ;back
+見ます;watch, will watch, watches<br>みます;front
+watch, will watch, watches;見ます<br>みます;back
+おっと;my husband;front
+my husband;おっと;back
+七;7, seven, seventh<br>なな / しち;front
+7, seven, seventh;七<br>なな / しち;back
+あたまがいい;smart;front
+smart;あたまがいい;back
+むすこ;my son;front
+my son;むすこ;back
+おしゃれ;fashionable, stylish, well-dressed;front
+fashionable, stylish, well-dressed;おしゃれ;back
+むすめ;my daughter;front
+my daughter;むすめ;back
+六;six<br>ろく;front
+six;六<br>ろく;back
+つま;my wife;front
+my wife;つま;back
+だいがくせい;college student;front
+college student;だいがくせい;back
+ゆうめい;famous;front
+famous;ゆうめい;back
+かんごし;nurse;front
+nurse;かんごし;back
+おとうと;my younger brother;front
+my younger brother;おとうと;back
+うるさい;noisy;front
+noisy;うるさい;back
+五;5, five<br>ご;front
+5, five;五<br>ご;back
+あに;my older brother;front
+my older brother;あに;back
+かいしゃいん;office worker;front
+office worker;かいしゃいん;back
+あね;my older sister;front
+my older sister;あね;back
+四;four よん / し;front
+four よん / し;四;back
+いもうと;my younger sister;front
+my younger sister;いもうと;back
+さい;years old;front
+years old;さい;back
+いそがしい;busy;front
+busy;いそがしい;back
+エンジニア;engineer;front
+engineer;エンジニア;back
+父;dad<br>ちち;front
+dad;父<br>ちち;back
+かぞく;family;front
+family;かぞく;back
+母;mom, mother, my mom<br>はは;front
+mom, mother, my mom;母<br>はは;back
+まち;town, wait, city;front
+town, wait, city;まち;back

@@ -1,0 +1,230 @@
+とても;very;front
+very;とても;back
+きれい;clean;front
+clean;きれい;back
+しずか;quiet;front
+quiet;しずか;back
+トロント;Toronto;front
+Toronto;トロント;back
+にぎやか;lively;front
+lively;にぎやか;back
+とし;years, cities, city;front
+years, cities, city;とし;back
+どう;how (about), what, how;front
+how (about), what, how;どう;back
+日本;Japan, Japanese<br>にほん;front
+Japan, Japanese;日本<br>にほん;back
+おおさか;Osaka;front
+Osaka;おおさか;back
+京都;Kyoto<br>きょうと;front
+Kyoto;京都<br>きょうと;back
+にすんでいます;is living;front
+is living;にすんでいます;back
+ニューヨーク;New York;front
+New York;ニューヨーク;back
+も;even, any, also;front
+even, any, also;も;back
+しゅっしん;from, origin, hometown;front
+from, origin, hometown;しゅっしん;back
+東京;Tokyo<br>とうきょう;front
+Tokyo;東京<br>とうきょう;back
+私;I<br>わたし;front
+I;私<br>わたし;back
+ようこそ;welcome;front
+welcome;ようこそ;back
+おはようございます;good morning;front
+good morning;おはようございます;back
+はじめまして;nice to meet you, how do you do;front
+nice to meet you, how do you do;はじめまして;back
+おなまえは;what's your name;front
+what's your name;おなまえは;back
+かばん;bag;front
+bag;かばん;back
+中山;Nakayama<br>なかやま;front
+Nakayama;中山<br>なかやま;back
+田中;Tanaka<br>たなか;front
+Tanaka;田中<br>たなか;back
+山口;Yamaguchi<br>やまぐち;front
+Yamaguchi;山口<br>やまぐち;back
+パスポート;passport;front
+passport;パスポート;back
+の;for, 's, one;front
+for, 's, one;の;back
+スマホ;smartphone;front
+smartphone;スマホ;back
+ちず;map;front
+map;ちず;back
+きっぷ;ticket;front
+ticket;きっぷ;back
+じゃないです;is not, we're not, aren't;front
+is not, we're not, aren't;じゃないです;back
+ちかてつ;subway;front
+subway;ちかてつ;back
+くうこう;airport;front
+airport;くうこう;back
+はん;thirty;front
+thirty;はん;back
+すみません;excuse me;front
+excuse me;すみません;back
+ごろ;around, about;front
+around, about;ごろ;back
+いま;now, current;front
+now, current;いま;back
+一;one, an, a<br>いち;front
+one, an, a;一<br>いち;back
+二;two, 2<br>に;front
+two, 2;二<br>に;back
+なんじ;what time;front
+what time;なんじ;back
+三;3, three, third<br>さん;front
+3, three, third;三<br>さん;back
+じ;o'clock;front
+o'clock;じ;back
+に;to, in, as (a);front
+to, in, as (a);に;back
+いち;one, an;front
+one, an;いち;back
+やまぐち;Yamaguchi;front
+Yamaguchi;やまぐち;back
+おもしろい;interesting, fun, funny;front
+interesting, fun, funny;おもしろい;back
+その;the, that, its;front
+the, that, its;その;back
+かわいい;cuter, cute, pretty;front
+cuter, cute, pretty;かわいい;back
+あかるい;bright, cheerful, well-lit;front
+bright, cheerful, well-lit;あかるい;back
+たなか;Tanaka;front
+Tanaka;たなか;back
+この;this, these;front
+this, these;この;back
+なかやま;Nakayama;front
+Nakayama;なかやま;back
+それら;they, them, those;front
+they, them, those;それら;back
+これら;these;front
+these;これら;back
+くつ;shoes, shoe;front
+shoes, shoe;くつ;back
+しろい;white;front
+white;しろい;back
+コート;coat;front
+coat;コート;back
+あかい;red;front
+red;あかい;back
+わたしの;my, mine;front
+my, mine;わたしの;back
+かさ;umbrella, umbrellas;front
+umbrella, umbrellas;かさ;back
+ぼうし;hat, hats;front
+hat, hats;ぼうし;back
+そこ;there;front
+there;そこ;back
+だいがく;university, college;front
+university, college;だいがく;back
+えき;station, train station, stations;front
+station, train station, stations;えき;back
+デパート;department store;front
+department store;デパート;back
+ここ;here;front
+here;ここ;back
+バスてい;bus stop;front
+bus stop;バスてい;back
+ホテル;hotel;front
+hotel;ホテル;back
+コンビニ;convenience store;front
+convenience store;コンビニ;back
+どこ;where;front
+where;どこ;back
+ブラジルじん;Brazilian;front
+Brazilian;ブラジルじん;back
+イギリスじん;British;front
+British;イギリスじん;back
+ブラジル;Brazil;front
+Brazil;ブラジル;back
+イギリス;Britain, the United Kingdom, British;front
+Britain, the United Kingdom, British;イギリス;back
+にほんじん;Japanese;front
+Japanese;にほんじん;back
+カナダ;Canada;front
+Canada;カナダ;back
+アメリカじん;American;front
+American;アメリカじん;back
+カナダじん;Canadian;front
+Canadian;カナダじん;back
+アメリカ;America, the USA, the US;front
+America, the USA, the US;アメリカ;back
+ちいさい;small, little;front
+small, little;ちいさい;back
+にほん;Japan;front
+Japan;にほん;back
+おおきい;big, large;front
+big, large;おおきい;back
+か;or, is it?, that;front
+or, is it?, that;か;back
+いいえ;no;front
+no;いいえ;back
+はい;yes;front
+yes;はい;back
+ケーキ;cake;front
+cake;ケーキ;back
+ピザ;pizza;front
+pizza;ピザ;back
+それ;that (one), it, that;front
+that (one), it, that;それ;back
+これ;this (one), these, this;front
+this (one), these, this;これ;back
+ラーメン;ramen;front
+ramen;ラーメン;back
+おいしい;good, delicious, tasty;front
+good, delicious, tasty;おいしい;back
+は;is, with, regarding;front
+is, with, regarding;は;back
+カレー;curry;front
+curry;カレー;back
+またあした;see you tomorrow;front
+see you tomorrow;またあした;back
+じゃあね;bye;front
+bye;じゃあね;back
+さん;Mr., Miss, Mrs.;front
+Mr., Miss, Mrs.;さん;back
+こんばんは;tonight, good evening, this evening;front
+tonight, good evening, this evening;こんばんは;back
+なおみ;Naomi;front
+Naomi;なおみ;back
+はな;flowers, flower, Hana;front
+flowers, flower, Hana;はな;back
+どうぞよろしく;nice to meet you;front
+nice to meet you;どうぞよろしく;back
+こんにちは;hello, hi;front
+hello, hi;こんにちは;back
+けん;Ken, ticket;front
+Ken, ticket;けん;back
+がくせい;student, students;front
+student, students;がくせい;back
+ひと;person, people;front
+person, people;ひと;back
+かっこいい;cool, good-looking, stylish;front
+cool, good-looking, stylish;かっこいい;back
+べんごし;lawyer, lawyers;front
+lawyer, lawyers;べんごし;back
+やさしい;kind, easy, nice;front
+kind, easy, nice;やさしい;back
+せんせい;teacher, Professor, teachers;front
+teacher, Professor, teachers;せんせい;back
+いしゃ;doctor, doctors;front
+doctor, doctors;いしゃ;back
+です;there is, it's, I'm;front
+there is, it's, I'm;です;back
+と;and, that, door;front
+and, that, door;と;back
+みず;water;front
+water;みず;back
+ごはん;rice, meal, meals;front
+rice, meal, meals;ごはん;back
+すし;sushi;front
+sushi;すし;back
+ください;please;front
+please;ください;back
+おちゃ;green teas, green tea, tea;front
+green teas, green tea, tea;おちゃ;back

@@ -1,0 +1,5 @@
+video;どうが
+judo;じゅうどう
+tennis;テニス
+speaks, speak, tells;話します;はなします
+Sunday;日曜日;にちようび

@@ -1,0 +1,23 @@
+exit;でぐち
+vending machines, vending machine;じはんき
+storage lockers;コインロッカー
+close;ちかい
+cafe;カフェ
+the second floor, two;にかい
+stairs;かいだん
+outlet;コンセント
+far;とおい
+phone;でんわ
+underground level;ちか
+taxi;タクシー
+elevator;エレベーター
+restroom;おてあらい
+wifi;wifi
+there are no, (it) is not, has nothing;ありません
+trash can;ゴミばこ
+transfer;のりかえ
+over there;あそこ
+ticket gate;かいさつ
+is (there), is (it), are (there);ありますか
+first floor;いっかい
+platform;ホーム

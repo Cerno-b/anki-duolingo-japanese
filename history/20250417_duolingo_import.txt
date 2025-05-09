@@ -1,0 +1,44 @@
+アイスコーヒー;iced coffee;front
+iced coffee;アイスコーヒー;back
+アイスクリーム;ice cream, ice creams;front
+ice cream, ice creams;アイスクリーム;back
+こうちゃ;black teas, black tea, tea;front
+black teas, black tea, tea;こうちゃ;back
+小さい;small, little<br>ちいさい;front
+small, little;小さい<br>ちいさい;back
+すこし;a bit;front
+a bit;すこし;back
+みそしる;miso soup;front
+miso soup;みそしる;back
+サラダ;salad, salads;front
+salad, salads;サラダ;back
+そば;soba;front
+soba;そば;back
+大きい;big<br>おおきい;front
+big;大きい<br>おおきい;back
+おにぎり;rice balls, rice ball, onigiri;front
+rice balls, rice ball, onigiri;おにぎり;back
+よっつ;four;front
+four;よっつ;back
+ええと;um;front
+um;ええと;back
+みっつ;three;front
+three;みっつ;back
+じゃあ;well then, well, see you;front
+well then, well, see you;じゃあ;back
+ふたつ;two;front
+two;ふたつ;back
+あ;ah, oh;front
+ah, oh;あ;back
+ひとつ;one;front
+one;ひとつ;back
+水;water, waters<br>みず;front
+water, waters;水<br>みず;back
+レストラン;restaurant;front
+restaurant;レストラン;back
+ていしょく;meal set, meal sets;front
+meal set, meal sets;ていしょく;back
+うどん;udon;front
+udon;うどん;back
+てんぷら;tempura;front
+tempura;てんぷら;back

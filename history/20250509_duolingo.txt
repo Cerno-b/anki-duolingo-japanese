@@ -1,0 +1,25 @@
+romance;れんあい
+comedy;コメディ
+really;ほんとうですか
+action;アクション
+... of the US, American, ... of the United States;アメリカの
+any, what kind of, what (sort of);どんな
+fantasy;ファンタジー
+horror;ホラー
+do you like;がすきですか
+do you have a hobby;しゅみはありますか
+mystery;ミステリー
+K-pop;Kポップ
+Japan's, of Japan, Japanese;日本の
+like;がすきです
+Vietnam;ベトナム
+Korea, korean;かんこく
+she, girlfriend, her;かのじょ
+China;ちゅうごく
+Mr./Ms.;さんは
+boyfriend;かれし
+Andrew;アンドリュー
+tell, say, says;と言います;といいます
+Erica, Erika;エリカ
+this, these, (over) here;こちら
+Daniel;ダニエル

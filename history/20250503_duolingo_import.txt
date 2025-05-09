@@ -1,0 +1,46 @@
+exit;でぐち;front
+でぐち;exit;back
+vending machines, vending machine;じはんき;front
+じはんき;vending machines, vending machine;back
+storage lockers;コインロッカー;front
+コインロッカー;storage lockers;back
+close;ちかい;front
+ちかい;close;back
+cafe;カフェ;front
+カフェ;cafe;back
+the second floor, two;にかい;front
+にかい;the second floor, two;back
+stairs;かいだん;front
+かいだん;stairs;back
+outlet;コンセント;front
+コンセント;outlet;back
+far;とおい;front
+とおい;far;back
+phone;でんわ;front
+でんわ;phone;back
+underground level;ちか;front
+ちか;underground level;back
+taxi;タクシー;front
+タクシー;taxi;back
+elevator;エレベーター;front
+エレベーター;elevator;back
+restroom;おてあらい;front
+おてあらい;restroom;back
+wifi;wifi;front
+wifi;wifi;back
+there are no, (it) is not, has nothing;ありません;front
+ありません;there are no, (it) is not, has nothing;back
+trash can;ゴミばこ;front
+ゴミばこ;trash can;back
+transfer;のりかえ;front
+のりかえ;transfer;back
+over there;あそこ;front
+あそこ;over there;back
+ticket gate;かいさつ;front
+かいさつ;ticket gate;back
+is (there), is (it), are (there);ありますか;front
+ありますか;is (there), is (it), are (there);back
+first floor;いっかい;front
+いっかい;first floor;back
+platform;ホーム;front
+ホーム;platform;back
