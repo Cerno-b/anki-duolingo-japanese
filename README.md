@@ -94,16 +94,15 @@ as they are)
 ### Step 3
 Run the first python file `01_fix_lines.py` by calling `python 01_fix_lines.py` 
 from the command line. Double-clicking the script might also work, depending on 
-your setup. This script fixes weird line breaks for the import. Note that this
-script will write back to the same file, so avoid doing any manual changes
+your python setup. This script fixes the weird line breaks for the import. Note that this
+script will write back to the same file, so back up any manual changes to that file
 before running the script.
 ### Step 4
 The next step is a bit of manual work: You have to get the correct kana 
 transcriptions for any kanji you see in the file. So open up the `duolingo.txt` 
 file in a text editor and spot all the lines that contain kanji. You can either 
-try to do the transcriptions yourself, or use ChatGPT, which is what I do. Here 
+do the transcriptions manually, or use ChatGPT, which is what I do. Here 
 is the prompt I use:
-
 
 	Transcribe the following to kana please and add the result to the end separated by semicolon:
 
@@ -122,21 +121,23 @@ This should result in something like this:
 ### Step 5	
 Now you can take these lines and replace them in your `duolingo.txt` file. You 
 may also want to make sure that ChatGPT got this right. Double check that the 
-lines with kanji now have an extra semicolon with the kana transcription. The 
+lines with kanji now have an extra semicolon with the kana transcription at the end. The 
 lines that already only contain kana can stay as they are.
 ### Step 6
 Run the second script `02_prep_import.py`. This will create a new 
 `duolingo_import.txt` file. 
 ### Step 7
-I would advise you to keep the `duolingo.txt` and `duolingo_import.txt` files 
-(I save mine in my `history` folder), so you will know what block of vocabulary 
-you need to copy next as you advance your Duolingo journey.
-### Step 8
 Open Anki on your computer
-### Step 9
+### Step 8
 Sync and backup your current deck, to be safe if anything goes wrong.
-### Step 10
+### Step 9
 Import the new vocabulary from your `duolingo_import.txt` as described above 
 in section [Importing the deck](#importing-the-deck). 
-### Step 11
+### Step 10
 Sync again to update the deck on all your devices.
+### Step 11 (optional)
+If you want to archive your import files in order to keep track of what you added
+when and to check later which new vocabulary you have to add to prevent gaps or duplicates,
+you can run `03_archive.py`. This will move your `duolingo.txt` and `duolingo_import.txt`
+to the archive directory with the current date. It will also create a new empty `duolingo.txt`
+file so you're ready for your next import in the future.

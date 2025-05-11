@@ -1,0 +1,48 @@
+こんしゅう;this week;front
+this week;こんしゅう;back
+いつ;when, what time;front
+when, what time;いつ;back
+つくえ;desk;front
+desk;つくえ;back
+せんたくき;washing machine;front
+washing machine;せんたくき;back
+れいぞうこ;fridge;front
+fridge;れいぞうこ;back
+いす;chair, chairs;front
+chair, chairs;いす;back
+テーブル;table, tables;front
+table, tables;テーブル;back
+でんしレンジ;microwave;front
+microwave;でんしレンジ;back
+ふとん;futon, futons;front
+futon, futons;ふとん;back
+たぶん;probably;front
+probably;たぶん;back
+ほんだな;bookshelf;front
+bookshelf;ほんだな;back
+シャワー;shower, showers;front
+shower, showers;シャワー;back
+そうじき;vacuum cleaner;front
+vacuum cleaner;そうじき;back
+エアコン;air conditioning, air conditioners, air conditioner;front
+air conditioning, air conditioners, air conditioner;エアコン;back
+ベッド;bed, beds;front
+bed, beds;ベッド;back
+せまい;cramped;front
+cramped;せまい;back
+リビング;living room;front
+living room;リビング;back
+キッチン;kitchen;front
+kitchen;キッチン;back
+があります;is, there is, there are;front
+is, there is, there are;があります;back
+アパート;apartment building, apartment, apartments;front
+apartment building, apartment, apartments;アパート;back
+ひっこします;am going to move, is going to move, move;front
+am going to move, is going to move, move;ひっこします;back
+まだ;still, yet, too;front
+still, yet, too;まだ;back
+ひろい;spacious;front
+spacious;ひろい;back
+いえ;house;front
+house;いえ;back
