@@ -80,10 +80,10 @@ When importing the deck, use the following Anki settings:
 If you want to build your own deck as you go along with your Duolingo course, 
 you can follow these steps to export your current vocabulary state.
 You need any recent python version to run the code and I would suggest you 
-have access to ChatGPT.
+have access to ChatGPT, but you don't strictly need it.
 
 ### Step 1
-Open your Duolingo website (not the app) and navigate to "PRACTICE" -> "Words". 
+Open your Duolingo website (not the app) and navigate to `PRACTICE -> Words`. 
 This is your word list. Click on "load more" at the bottom to reveal as much of 
 the vocabulary as you want to export.
 ### Step 2 
@@ -117,6 +117,16 @@ This should result in something like this:
 	check emails;メールを読みます;めーるをよみます
 	four o'clock;四時;よじ
 	eat, am going to eat, will eat;食べます;たべます
+
+It's advisable to copy the whole line as it might help ChatGPT infer nuances, e.g. 
+十分 can be *10 minutes* (じゅっぷん) or *enough* (じゅうぶん) which cannot be transcribed uniquely 
+from the kanji alone
+
+If you don't trust ChatGPT, you can instead take the transcription directly from the Duolingo website.
+Go to `CHARACTERS -> KANJI` and copy the hiragana/katakana transcriptions for each Kanji. 
+Don't forget to separate the transcription with a semicolon in the text file as in the ChatGpt example output above. 
+Doing it this way also helps you to not miss any kanji and you have the new kanji neatly organised by
+unit.
 
 ### Step 5	
 Now you can take these lines and replace them in your `duolingo.txt` file. You 
