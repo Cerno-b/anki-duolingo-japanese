@@ -1,0 +1,42 @@
+long;ながい;front
+ながい;long;back
+final stop;しゅうてん;front
+しゅうてん;final stop;back
+time, hour, hours;時間<br>じかん;front
+時間;time, hour, hours<br>じかん;back
+minute, minutes;分<br>ふん;front
+分;minute, minutes<br>ふん;back
+about;ぐらい;front
+ぐらい;about;back
+take, (it) takes, (it) will take;かかります;front
+かかります;take, (it) takes, (it) will take;back
+fast;はやい;front
+はやい;fast;back
+sufficient, enough, adequate;十分<br>じゅうぶん;front
+十分;sufficient, enough, adequate<br>じゅうぶん;back
+any, each, which;どの;front
+どの;any, each, which;back
+soon, almost, shortly;もうすぐ;front
+もうすぐ;soon, almost, shortly;back
+Asakusa;あさくさ;front
+あさくさ;Asakusa;back
+Ueno Park;うえのこうえん;front
+うえのこうえん;Ueno Park;back
+will be here, will come, is coming;来ます<br>きます;front
+来ます;will be here, will come, is coming<br>きます;back
+next;つぎの;front
+つぎの;next;back
+next;つぎ;front
+つぎ;next;back
+Yokohama;よこはま;front
+よこはま;Yokohama;back
+bus;バス;front
+バス;bus;back
+Akihabara;あきはばら;front
+あきはばら;Akihabara;back
+Shibuya;しぶや;front
+しぶや;Shibuya;back
+am going, are going, go;行きます<br>いきます;front
+行きます;am going, are going, go<br>いきます;back
+train;でんしゃ;front
+でんしゃ;train;back

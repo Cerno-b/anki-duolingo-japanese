@@ -1,0 +1,21 @@
+long;ながい
+final stop;しゅうてん
+time, hour, hours;時間;じかん
+minute, minutes;分;ふん
+about;ぐらい
+take, (it) takes, (it) will take;かかります
+fast;はやい
+sufficient, enough, adequate;十分;じゅうぶん
+any, each, which;どの
+soon, almost, shortly;もうすぐ
+Asakusa;あさくさ
+Ueno Park;うえのこうえん
+will be here, will come, is coming;来ます;きます
+next;つぎの
+next;つぎ
+Yokohama;よこはま
+bus;バス
+Akihabara;あきはばら
+Shibuya;しぶや
+am going, are going, go;行きます;いきます
+train;でんしゃ
