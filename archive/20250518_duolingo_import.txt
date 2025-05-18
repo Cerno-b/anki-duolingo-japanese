@@ -1,0 +1,38 @@
+how are things, why don't, how is;どうですか;front
+どうですか;how are things, why don't, how is;back
+souvenir;おみやげ;front
+おみやげ;souvenir;back
+snack;おかし;front
+おかし;snack;back
+postcard;ポストカード;front
+ポストカード;postcard;back
+Mt. Fuji;ふじさん;front
+ふじさん;Mt. Fuji;back
+tall;高い<br>たかい;front
+高い;tall<br>たかい;back
+mountain, mount, mountains;山<br>やま;front
+山;mountain, mount, mountains<br>やま;back
+shrine;じんじゃ;front
+じんじゃ;shrine;back
+ramen shop;ラーメンや;front
+ラーメンや;ramen shop;back
+pizza shop;ピザや;front
+ピザや;pizza shop;back
+Harajuku;はらじゅく;front
+はらじゅく;Harajuku;back
+dessert;デザート;front
+デザート;dessert;back
+hey, that (one) (over there), what;あれ;front
+あれ;hey, that (one) (over there), what;back
+what (is), what are, what's;何ですか<br>なんですか;front
+何ですか;what (is), what are, what's<br>なんですか;back
+temple;おてら;front
+おてら;temple;back
+building;たてもの;front
+たてもの;building;back
+do not, (adjective ending), don't;な;front
+な;do not, (adjective ending), don't;back
+place;ところ;front
+ところ;place;back
+really, truly;ほんとうに;front
+ほんとうに;really, truly;back
