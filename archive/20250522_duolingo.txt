@@ -1,0 +1,20 @@
+proper, properly, full;ちゃんと
+take (medicine);くすりを飲みます;くすりをのみます
+rest, take a break, absent (from);休みます;やすみます
+today;きょう
+nearby;ちかく
+your family, family;ごかぞく
+allergy;アレルギー
+(your) parents, parents;ごりょうしん
+phone number;でんわばんごう
+how old;何さい
+0, zero;〇;ゼロ
+nine;九;きゅう or く
+ambulance;きゅうきゅうしゃ
+please, I need ... please;おねがいします
+hospital;びょういん
+police;けいさつ
+dangerous;あぶない
+unwell;ぐあいがわるい
+sit, going to sit;すわります
+OK;だいじょうぶ

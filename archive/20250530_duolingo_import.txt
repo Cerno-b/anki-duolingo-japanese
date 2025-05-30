@@ -1,0 +1,48 @@
+cold;さむい;front
+さむい;cold;back
+snowy;ゆき;front
+ゆき;snowy;back
+cocoa;ココア;front
+ココア;cocoa;back
+hot spring;おんせん;front
+おんせん;hot spring;back
+winter;ふゆ;front
+ふゆ;winter;back
+this evening, tonight;こんばん;front
+こんばん;this evening, tonight;back
+September, (in) September;九月<br>くがつ;front
+九月;September, (in) September<br>くがつ;back
+cloudy;くもり;front
+くもり;cloudy;back
+concert, concerts;コンサート;front
+コンサート;concert, concerts;back
+fall;あき;front
+あき;fall;back
+break;休み<br>やすみ;front
+休み;break<br>やすみ;back
+fireworks;はなび;front
+はなび;fireworks;back
+hot, thick;あつい;front
+あつい;hot, thick;back
+swimming pools, pools, pool;プール;front
+プール;swimming pools, pools, pool;back
+July;七月<br>しちがつ;front
+七月;July<br>しちがつ;back
+sunny;はれ;front
+はれ;sunny;back
+summer;なつ;front
+なつ;summer;back
+day, the sun, (a) day;日<br>ひ;front
+日;day, the sun, (a) day<br>ひ;back
+beach;うみ;front
+うみ;beach;back
+park, performance, parks;こうえん;front
+こうえん;park, performance, parks;back
+spring;はる;front
+はる;spring;back
+rainy;あめ;front
+あめ;rainy;back
+weather;てんき;front
+てんき;weather;back
+warm;あたたかい;front
+あたたかい;warm;back

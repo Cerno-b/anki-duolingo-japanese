@@ -1,0 +1,24 @@
+cold;さむい
+snowy;ゆき
+cocoa;ココア
+hot spring;おんせん
+winter;ふゆ
+this evening, tonight;こんばん
+September, (in) September;九月;くがつ
+cloudy;くもり
+concert, concerts;コンサート
+fall;あき
+break;休み;やすみ
+fireworks;はなび
+hot, thick;あつい
+swimming pools, pools, pool;プール
+July;七月;しちがつ
+sunny;はれ
+summer;なつ
+day, the sun, (a) day;日;ひ
+beach;うみ
+park, performance, parks;こうえん
+spring;はる
+rainy;あめ
+weather;てんき
+warm;あたたかい

@@ -1,0 +1,40 @@
+proper, properly, full;ちゃんと;front
+ちゃんと;proper, properly, full;back
+take (medicine);くすりを飲みます<br>くすりをのみます;front
+くすりを飲みます;take (medicine)<br>くすりをのみます;back
+rest, take a break, absent (from);休みます<br>やすみます;front
+休みます;rest, take a break, absent (from)<br>やすみます;back
+today;きょう;front
+きょう;today;back
+nearby;ちかく;front
+ちかく;nearby;back
+your family, family;ごかぞく;front
+ごかぞく;your family, family;back
+allergy;アレルギー;front
+アレルギー;allergy;back
+(your) parents, parents;ごりょうしん;front
+ごりょうしん;(your) parents, parents;back
+phone number;でんわばんごう;front
+でんわばんごう;phone number;back
+how old;何さい;front
+何さい;how old;back
+0, zero;〇<br>ゼロ;front
+〇;0, zero<br>ゼロ;back
+nine;九<br>きゅう or く;front
+九;nine<br>きゅう or く;back
+ambulance;きゅうきゅうしゃ;front
+きゅうきゅうしゃ;ambulance;back
+please, I need ... please;おねがいします;front
+おねがいします;please, I need ... please;back
+hospital;びょういん;front
+びょういん;hospital;back
+police;けいさつ;front
+けいさつ;police;back
+dangerous;あぶない;front
+あぶない;dangerous;back
+unwell;ぐあいがわるい;front
+ぐあいがわるい;unwell;back
+sit, going to sit;すわります;front
+すわります;sit, going to sit;back
+OK;だいじょうぶ;front
+だいじょうぶ;OK;back
