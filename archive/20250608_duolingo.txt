@@ -1,0 +1,22 @@
+one;ひとり
+kid, (the) child, (the) children;こども
+kid, kids;おこさん
+Seoul;ソウル
+Korean;かんこくご
+two;ふたり
+Malaysia;マレーシア
+English;えいご
+big brother, older brothers, older brother;おにいさん
+younger sister;いもうとさん
+Chinese;ちゅうごくご
+know, can play;ができます
+Taiwan;たいわん
+Japanese;日本ご
+coach;コーチ
+Australia, Australian;オーストラリア
+big sister, big sisters, older sisters;おねえさん
+(softens the tone), (indicates the subject), but;が
+is, am, has been;います
+do ... have;はいますか
+sibling;きょうだい
+younger brother;おとうとさん

@@ -1,0 +1,44 @@
+one;ひとり;front
+ひとり;one;back
+kid, (the) child, (the) children;こども;front
+こども;kid, (the) child, (the) children;back
+kid, kids;おこさん;front
+おこさん;kid, kids;back
+Seoul;ソウル;front
+ソウル;Seoul;back
+Korean;かんこくご;front
+かんこくご;Korean;back
+two;ふたり;front
+ふたり;two;back
+Malaysia;マレーシア;front
+マレーシア;Malaysia;back
+English;えいご;front
+えいご;English;back
+big brother, older brothers, older brother;おにいさん;front
+おにいさん;big brother, older brothers, older brother;back
+younger sister;いもうとさん;front
+いもうとさん;younger sister;back
+Chinese;ちゅうごくご;front
+ちゅうごくご;Chinese;back
+know, can play;ができます;front
+ができます;know, can play;back
+Taiwan;たいわん;front
+たいわん;Taiwan;back
+Japanese;日本ご;front
+日本ご;Japanese;back
+coach;コーチ;front
+コーチ;coach;back
+Australia, Australian;オーストラリア;front
+オーストラリア;Australia, Australian;back
+big sister, big sisters, older sisters;おねえさん;front
+おねえさん;big sister, big sisters, older sisters;back
+(softens the tone), (indicates the subject), but;が;front
+が;(softens the tone), (indicates the subject), but;back
+is, am, has been;います;front
+います;is, am, has been;back
+do ... have;はいますか;front
+はいますか;do ... have;back
+sibling;きょうだい;front
+きょうだい;sibling;back
+younger brother;おとうとさん;front
+おとうとさん;younger brother;back
