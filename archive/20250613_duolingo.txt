@@ -1,0 +1,23 @@
+day off;休みの日;やすみのひ
+gardening;ガーデニング
+fun;たのしい
+cuisine, dish, food;りょうり
+shopping;買い物;かいもの
+then;そして
+tough, very, hard;たいへん
+stretch;ストレッチ
+am going to take, take, going to enroll;にはいります
+bath;おふろ
+laundry;せんたく
+who;だれ
+all sorts of;いろいろ
+cleaning, clean;そうじ
+help;てつだいます
+homework;しゅくだい
+anything, which, what;何;なに
+school;がっこう
+chore;かじ
+after;あと
+work;しごと
+we, (my) house, home;うち
+am returning, will return home, returning;かえります

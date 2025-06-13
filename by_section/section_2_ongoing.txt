@@ -1,3 +1,50 @@
+# S02U17
+day off;休みの日<br>やすみのひ;front
+休みの日;day off<br>やすみのひ;back
+gardening;ガーデニング;front
+ガーデニング;gardening;back
+fun;たのしい;front
+たのしい;fun;back
+cuisine, dish, food;りょうり;front
+りょうり;cuisine, dish, food;back
+shopping;買い物<br>かいもの;front
+買い物;shopping<br>かいもの;back
+then;そして;front
+そして;then;back
+tough, very, hard;たいへん;front
+たいへん;tough, very, hard;back
+stretch;ストレッチ;front
+ストレッチ;stretch;back
+am going to take, take, going to enroll;にはいります;front
+にはいります;am going to take, take, going to enroll;back
+bath;おふろ;front
+おふろ;bath;back
+laundry;せんたく;front
+せんたく;laundry;back
+who;だれ;front
+だれ;who;back
+all sorts of;いろいろ;front
+いろいろ;all sorts of;back
+cleaning, clean;そうじ;front
+そうじ;cleaning, clean;back
+help;てつだいます;front
+てつだいます;help;back
+homework;しゅくだい;front
+しゅくだい;homework;back
+anything, which, what;何<br>なに;front
+何;anything, which, what<br>なに;back
+school;がっこう;front
+がっこう;school;back
+chore;かじ;front
+かじ;chore;back
+after;あと;front
+あと;after;back
+work;しごと;front
+しごと;work;back
+we, (my) house, home;うち;front
+うち;we, (my) house, home;back
+am returning, will return home, returning;かえります;front
+かえります;am returning, will return home, returning;back
 # S02U16
 one;ひとり;front
 ひとり;one;back
