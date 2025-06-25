@@ -1,3 +1,56 @@
+# S02U18
+we should eat;食べましょう<br>たべましょう;front
+食べましょう;we should eat<br>たべましょう;back
+meat;にく;front
+にく;meat;back
+French food;フランスりょうり;front
+フランスりょうり;French food;back
+we should return;かえりましょう;front
+かえりましょう;we should return;back
+we should rest;休みましょう<br>やすみましょう;front
+休みましょう;we should rest<br>やすみましょう;back
+zoo;どうぶつえん;front
+どうぶつえん;zoo;back
+lion;ライオン;front
+ライオン;lion;back
+we should take;とりましょう;front
+とりましょう;we should take;back
+plaza;ひろば;front
+ひろば;plaza;back
+photo;しゃしん;front
+しゃしん;photo;back
+painting;え;front
+え;painting;back
+as a, under, through;で;front
+で;as a, under, through;back
+let's see, let's view, let's watch;見ましょう<br>みましょう;front
+見ましょう;let's see, let's view, let's watch<br>みましょう;back
+art museum;びじゅつかん;front
+びじゅつかん;art museum;back
+let's have, let's drink;飲みましょう<br>のみましょう;front
+飲みましょう;let's have, let's drink<br>のみましょう;back
+ticket, tickets;チケット;front
+チケット;ticket, tickets;back
+we should buy, let's buy;買いましょう<br>かいましょう;front
+買いましょう;we should buy, let's buy<br>かいましょう;back
+am going to meet up, (will) meet, (is) meeting;会います<br>あいます;front
+会います;am going to meet up, (will) meet, (is) meeting<br>あいます;back
+suitcase;スーツケース;front
+スーツケース;suitcase;back
+plane;ひこうき;front
+ひこうき;plane;back
+let's meet, see you;会いましょう<br>あいましょう;front
+会いましょう;let's meet, see you<br>あいましょう;back
+trip;りょこう;front
+りょこう;trip;back
+French, France;フランス;front
+フランス;French, France;back
+let's go;行きましょう<br>いきましょう;front
+行きましょう;let's go<br>いきましょう;back
+shall (we), should (we);しましょうか;front
+しましょうか;shall (we), should (we);back
+next month;来月<br>らいげつ;front
+来月;next month<br>らいげつ;back
 # S02U17
 day off;休みの日<br>やすみのひ;front
 休みの日;day off<br>やすみのひ;back
