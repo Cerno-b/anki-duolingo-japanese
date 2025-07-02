@@ -1,3 +1,44 @@
+# S02U19
+short;みじかい;front
+みじかい;short;back
+looking forward to, am looking forward to;がたのしみです;front
+がたのしみです;looking forward to, am looking forward to;back
+Monday;月曜日<br>げつようび;front
+月曜日;Monday<br>げつようび;back
+wait for;まちます;front
+まちます;wait for;back
+miso pork cutlet;みそかつ;front
+みそかつ;miso pork cutlet;back
+garden;にわ;front
+にわ;garden;back
+sightseeing;かんこう;front
+かんこう;sightseeing;back
+castle;しろ;front
+しろ;castle;back
+seat;せき;front
+せき;seat;back
+convenient;べんり;front
+べんり;convenient;back
+get on, going to ride, take;にのります;front
+にのります;get on, going to ride, take;back
+bullet train;しんかんせん;front
+しんかんせん;bullet train;back
+Nagoya;なごや;front
+なごや;Nagoya;back
+Japanese food;日本りょうり<br>にほんりょうり;front
+日本りょうり;Japanese food<br>にほんりょうり;back
+Friday, Fridays;金曜日<br>きんようび;front
+金曜日;Friday, Fridays<br>きんようび;back
+mom, mother, (your) mom;お母さん<br>おかあさん;front
+お母さん;mom, mother, (your) mom<br>おかあさん;back
+sushi restaurant;すしや;front
+すしや;sushi restaurant;back
+(the) lobby;ロビー;front
+ロビー;(the) lobby;back
+parents;りょうしん;front
+りょうしん;parents;back
+dad, (your) dad, (your) father;お父さん<br>おとうさん;front
+お父さん;dad, (your) dad, (your) father<br>おとうさん;back
 # S02U18
 we should eat;食べましょう<br>たべましょう;front
 食べましょう;we should eat<br>たべましょう;back
