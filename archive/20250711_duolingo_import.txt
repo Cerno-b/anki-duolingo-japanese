@@ -1,0 +1,50 @@
+pork;ぶたにく;front
+ぶたにく;pork;back
+salty;しょっぱい;front
+しょっぱい;salty;back
+cola;コーラ;front
+コーラ;cola;back
+(I) won't drink, don't take, (I) do not drink;飲みません<br>のみません;front
+飲みません;(I) won't drink, don't take, (I) do not drink<br>のみません;back
+beer;ビール;front
+ビール;beer;back
+pork cutlet;とんかつ;front
+とんかつ;pork cutlet;back
+salt;しお;front
+しお;salt;back
+sauce;ソース;front
+ソース;sauce;back
+we should use;つかいましょう;front
+つかいましょう;we should use;back
+raw;なま;front
+なま;raw;back
+(the) tofu, bean curd, tofu;とうふ;front
+とうふ;(the) tofu, bean curd, tofu;back
+don't eat, do not eat, will not eat;食べません<br>たべません;front
+食べません;don't eat, do not eat, will not eat<br>たべません;back
+fish;魚<br>さかな;front
+魚;fish<br>さかな;back
+but, however, neither;でも;front
+でも;but, however, neither;back
+beef bowl;ぎゅうどん;front
+ぎゅうどん;beef bowl;back
+vegetable;やさい;front
+やさい;vegetable;back
+soy sauce;しょうゆ;front
+しょうゆ;soy sauce;back
+more;もっと;front
+もっと;more;back
+supermarket;スーパー;front
+スーパー;supermarket;back
+egg, eggs;卵<br>たまご;front
+卵;egg, eggs<br>たまご;back
+together;いっしょに;front
+いっしょに;together;back
+we should make;つくりましょう;front
+つくりましょう;we should make;back
+available, bored, free;ひま;front
+ひま;available, bored, free;back
+Thursday, Thursdays;木曜日<br>もくようび;front
+木曜日;Thursday, Thursdays<br>もくようび;back
+shall I make, should we make, should I make;つくりましょうか;front
+つくりましょうか;shall I make, should we make, should I make;back

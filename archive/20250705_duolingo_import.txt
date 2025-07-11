@@ -1,0 +1,42 @@
+pie, pies;パイ;front
+パイ;pie, pies;back
+four (things), four;四つ<br>よっつ;front
+四つ;four (things), four<br>よっつ;back
+chocolate, chocolates;チョコレート;front
+チョコレート;chocolate, chocolates;back
+donut;ドーナツ;front
+ドーナツ;donut;back
+two;二つ<br>ふたつ;front
+二つ;two<br>ふたつ;back
+strawberry, strawberries;いちご;front
+いちご;strawberry, strawberries;back
+cookies, cookie;クッキー;front
+クッキー;cookies, cookie;back
+three;三つ<br>みっつ;front
+三つ;three<br>みっつ;back
+matcha;まっちゃ;front
+まっちゃ;matcha;back
+green;みどり;front
+みどり;green;back
+one (thing), one;一つ<br>ひとつ;front
+一つ;one (thing), one<br>ひとつ;back
+cupcake;カップケーキ;front
+カップケーキ;cupcake;back
+cheesecake;チーズケーキ;front
+チーズケーキ;cheesecake;back
+should we buy;買いましょうか<br>かいましょうか;front
+買いましょうか;should we buy<br>かいましょうか;back
+pastry shop;おかしや;front
+おかしや;pastry shop;back
+love, loves;がだいすきです;front
+がだいすきです;love, loves;back
+sweet;あまい;front
+あまい;sweet;back
+do ... like;はすきですか;front
+はすきですか;do ... like;back
+cake shop;ケーキや;front
+ケーキや;cake shop;back
+should we go, would you like to go;行きましょうか<br>いきましょうか;front
+行きましょうか;should we go, would you like to go<br>いきましょうか;back
+stuff;もの;front
+もの;stuff;back
