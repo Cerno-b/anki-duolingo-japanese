@@ -1,3 +1,46 @@
+# S02U22
+we should ask;ききましょう;front
+ききましょう;we should ask;back
+Wednesday, Wednesdays;水曜日<br>すいようび;front
+水曜日;Wednesday, Wednesdays<br>すいようび;back
+project;プロジェクト;front
+プロジェクト;project;back
+deadline;しめきり;front
+しめきり;deadline;back
+seven;ななつ;front
+ななつ;seven;back
+six;むっつ;front
+むっつ;six;back
+ends, end;おわります;front
+おわります;ends, end;back
+should we ask;ききましょうか;front
+ききましょうか;should we ask;back
+Tuesday, Tuesdays;火曜日<br>かようび;front
+火曜日;Tuesday, Tuesdays<br>かようび;back
+question;しつもん;front
+しつもん;question;back
+fast, early, quickly;はやく;front
+はやく;fast, early, quickly;back
+five;いつつ;front
+いつつ;five;back
+test;テスト;front
+テスト;test;back
+what day;何曜日<br>なんようび;front
+何曜日;what day<br>なんようび;back
+is, (they) are, have;あります;front
+あります;is, (they) are, have;back
+Smith;スミス;front
+スミス;Smith;back
+Yamada;山田<br>やまだ;front
+山田;Yamada<br>やまだ;back
+a lot of;たくさん;front
+たくさん;a lot of;back
+class;じゅぎょう;front
+じゅぎょう;class;back
+Spanish;スペインご;front
+スペインご;Spanish;back
+classroom;きょうしつ;front
+きょうしつ;classroom;back
 # S02U21
 pork;ぶたにく;front
 ぶたにく;pork;back

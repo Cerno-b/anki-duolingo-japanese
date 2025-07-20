@@ -1,19 +1,21 @@
-to ask;ききます
-Wednesday;水曜日;すいようび
+we should ask;ききましょう
+Wednesday, Wednesdays;水曜日;すいようび
 project;プロジェクト
 deadline;しめきり
 seven;ななつ
 six;むっつ
-to end;おわります
-Tuesday;火曜日;かようび
+ends, end;おわります
+should we ask;ききましょうか
+Tuesday, Tuesdays;火曜日;かようび
 question;しつもん
 fast, early, quickly;はやく
 five;いつつ
 test;テスト
 what day;何曜日;なんようび
+is, (they) are, have;あります
 Smith;スミス
 Yamada;山田;やまだ
 a lot of;たくさん
 class;じゅぎょう
-Spanish (language);スペインご
+Spanish;スペインご
 classroom;きょうしつ
