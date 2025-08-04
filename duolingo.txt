@@ -1,19 +1,22 @@
-to ask;ききます
-Wednesday;水曜日;すいようび
-project;プロジェクト
-deadline;しめきり
-seven;ななつ
-six;むっつ
-to end;おわります
-Tuesday;火曜日;かようび
-question;しつもん
-fast, early, quickly;はやく
-five;いつつ
-test;テスト
-what day;何曜日;なんようび
-Smith;スミス
-Yamada;山田;やまだ
-a lot of;たくさん
-class;じゅぎょう
-Spanish (language);スペインご
-classroom;きょうしつ
+gym;ジム
+to exercise;うんどうします
+athlete, player;せんしゅ
+professional;プロの
+team;チーム
+photographer;しゃしんか
+camera;カメラ
+event;イベント
+to travel;りょこうします
+a.m., morning;ごぜん
+to drive;うんてんします
+GPS;ナビ
+driver;うんてんしゅ
+to wash;あらいます
+translator;ほんやくか
+to translate;ほんやくします
+library;としょかん
+dictionary;じしょ
+manager;マネージャー
+company;かいしゃ
+coworker;どうりょう
+to work;しごとします

@@ -1,0 +1,24 @@
+gym;ジム
+exercise, am going to exercise;うんどうします
+athlete, athletes, player;せんしゅ
+professional, pro;プロの
+team;チーム
+photographer;しゃしんか
+camera;カメラ
+event;イベント
+travel, travels;りょこうします
+takes, get, going to take;とります
+a.m., morning;ごぜん
+drive;うんてんします
+GPS;ナビ
+driver;うんてんしゅ
+wash, going to wash, washes;あらいます
+translator;ほんやくか
+translate;ほんやくします
+library;としょかん
+dictionary;じしょ
+will use, uses;つかいます
+manager;マネージャー
+company;かいしゃ
+coworker;どうりょう
+work;しごとします

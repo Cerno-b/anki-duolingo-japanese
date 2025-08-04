@@ -1,3 +1,52 @@
+# S02U23
+gym;ジム;front
+ジム;gym;back
+exercise, am going to exercise;うんどうします;front
+うんどうします;exercise, am going to exercise;back
+athlete, athletes, player;せんしゅ;front
+せんしゅ;athlete, athletes, player;back
+professional, pro;プロの;front
+プロの;professional, pro;back
+team;チーム;front
+チーム;team;back
+photographer;しゃしんか;front
+しゃしんか;photographer;back
+camera;カメラ;front
+カメラ;camera;back
+event;イベント;front
+イベント;event;back
+travel, travels;りょこうします;front
+りょこうします;travel, travels;back
+takes, get, going to take;とります;front
+とります;takes, get, going to take;back
+a.m., morning;ごぜん;front
+ごぜん;a.m., morning;back
+drive;うんてんします;front
+うんてんします;drive;back
+GPS;ナビ;front
+ナビ;GPS;back
+driver;うんてんしゅ;front
+うんてんしゅ;driver;back
+wash, going to wash, washes;あらいます;front
+あらいます;wash, going to wash, washes;back
+translator;ほんやくか;front
+ほんやくか;translator;back
+translate;ほんやくします;front
+ほんやくします;translate;back
+library;としょかん;front
+としょかん;library;back
+dictionary;じしょ;front
+じしょ;dictionary;back
+will use, uses;つかいます;front
+つかいます;will use, uses;back
+manager;マネージャー;front
+マネージャー;manager;back
+company;かいしゃ;front
+かいしゃ;company;back
+coworker;どうりょう;front
+どうりょう;coworker;back
+work;しごとします;front
+しごとします;work;back
 # S02U22
 we should ask;ききましょう;front
 ききましょう;we should ask;back
