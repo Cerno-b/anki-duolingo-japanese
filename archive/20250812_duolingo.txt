@@ -1,0 +1,22 @@
+mint chocolate chip;チョコミント
+flavor;あじ
+vanilla;バニラ
+face;かお
+yellow;きいろい
+show;ショー
+mascot;キャラクター
+should we see;見ましょうか;みましょうか
+go-kart;ゴーカート
+rollercoaster;ジェットコースター
+favorite;すきな
+attraction;アトラクション
+scary;こわい
+(the) adult, (the) adults, (an) adult;おとな
+3,000;三千;さんぜん
+admission fee;にゅうじょうりょう
+entrance;いりぐち
+afternoon, p.m., p.m;ごご
+boring;つまらない
+museum;はくぶつかん
+theme park;ゆうえんち
+we should go out;でかけましょう

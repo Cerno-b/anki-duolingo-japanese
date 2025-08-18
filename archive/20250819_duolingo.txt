@@ -1,0 +1,21 @@
+documentary;ドキュメンタリー
+poster;ポスター
+actor;はいゆう
+does not see, do not watch, does not look at;見ません;みません
+card game;カードゲーム
+difficult;むずかしい
+do not, will not, does not;しません
+puzzle;パズル
+band;バンド
+anime music;アニソン
+album;アルバム
+don't really listen to;ききません
+pop;ポップス
+non-fiction;ノンフィクション
+does not read, do not read, (never) reads;読みません;よみません
+fiction;フィクション
+(not) a lot of, (not) so, (not) too;あまり
+talking, conversation, chat;話;はなし
+bookstore;本や;ほんや
+sale;セール
+section;コーナー

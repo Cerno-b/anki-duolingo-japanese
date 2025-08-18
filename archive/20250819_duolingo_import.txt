@@ -1,0 +1,42 @@
+documentary;ドキュメンタリー;front
+ドキュメンタリー;documentary;back
+poster;ポスター;front
+ポスター;poster;back
+actor;はいゆう;front
+はいゆう;actor;back
+does not see, do not watch, does not look at;見ません<br>みません;front
+見ません;does not see, do not watch, does not look at<br>みません;back
+card game;カードゲーム;front
+カードゲーム;card game;back
+difficult;むずかしい;front
+むずかしい;difficult;back
+do not, will not, does not;しません;front
+しません;do not, will not, does not;back
+puzzle;パズル;front
+パズル;puzzle;back
+band;バンド;front
+バンド;band;back
+anime music;アニソン;front
+アニソン;anime music;back
+album;アルバム;front
+アルバム;album;back
+don't really listen to;ききません;front
+ききません;don't really listen to;back
+pop;ポップス;front
+ポップス;pop;back
+non-fiction;ノンフィクション;front
+ノンフィクション;non-fiction;back
+does not read, do not read, (never) reads;読みません<br>よみません;front
+読みません;does not read, do not read, (never) reads<br>よみません;back
+fiction;フィクション;front
+フィクション;fiction;back
+(not) a lot of, (not) so, (not) too;あまり;front
+あまり;(not) a lot of, (not) so, (not) too;back
+talking, conversation, chat;話<br>はなし;front
+話;talking, conversation, chat<br>はなし;back
+bookstore;本や<br>ほんや;front
+本や;bookstore<br>ほんや;back
+sale;セール;front
+セール;sale;back
+section;コーナー;front
+コーナー;section;back

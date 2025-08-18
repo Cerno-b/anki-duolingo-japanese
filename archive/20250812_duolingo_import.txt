@@ -1,0 +1,44 @@
+mint chocolate chip;チョコミント;front
+チョコミント;mint chocolate chip;back
+flavor;あじ;front
+あじ;flavor;back
+vanilla;バニラ;front
+バニラ;vanilla;back
+face;かお;front
+かお;face;back
+yellow;きいろい;front
+きいろい;yellow;back
+show;ショー;front
+ショー;show;back
+mascot;キャラクター;front
+キャラクター;mascot;back
+should we see;見ましょうか<br>みましょうか;front
+見ましょうか;should we see<br>みましょうか;back
+go-kart;ゴーカート;front
+ゴーカート;go-kart;back
+rollercoaster;ジェットコースター;front
+ジェットコースター;rollercoaster;back
+favorite;すきな;front
+すきな;favorite;back
+attraction;アトラクション;front
+アトラクション;attraction;back
+scary;こわい;front
+こわい;scary;back
+(the) adult, (the) adults, (an) adult;おとな;front
+おとな;(the) adult, (the) adults, (an) adult;back
+3,000;三千<br>さんぜん;front
+三千;3,000<br>さんぜん;back
+admission fee;にゅうじょうりょう;front
+にゅうじょうりょう;admission fee;back
+entrance;いりぐち;front
+いりぐち;entrance;back
+afternoon, p.m., p.m;ごご;front
+ごご;afternoon, p.m., p.m;back
+boring;つまらない;front
+つまらない;boring;back
+museum;はくぶつかん;front
+はくぶつかん;museum;back
+theme park;ゆうえんち;front
+ゆうえんち;theme park;back
+we should go out;でかけましょう;front
+でかけましょう;we should go out;back
