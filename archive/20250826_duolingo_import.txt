@@ -1,0 +1,42 @@
+bar;バー;front
+バー;bar;back
+karaoke;カラオケ;front
+カラオケ;karaoke;back
+last;さいご;front
+さいご;last;back
+sing, will sing, am going to sing;うたいます;front
+うたいます;sing, will sing, am going to sing;back
+client;クライアント;front
+クライアント;client;back
+presentation;プレゼン;front
+プレゼン;presentation;back
+computer;パソコン;front
+パソコン;computer;back
+through, even, before;まで;front
+まで;through, even, before;back
+lunch break;ひる休み<br>ひるやすみ;front
+ひる休み;lunch break<br>ひるやすみ;back
+cafeteria;しょくどう;front
+しょくどう;cafeteria;back
+the second floor;二階<br>にかい;front
+二階;the second floor<br>にかい;back
+fried rice;チャーハン;front
+チャーハン;fried rice;back
+french fries;フライドポテト;front
+フライドポテト;french fries;back
+job training;トレーニング;front
+トレーニング;job training;back
+printer;プリンター;front
+プリンター;printer;back
+because, starting, through;から;front
+から;because, starting, through;back
+meeting;ミーティング;front
+ミーティング;meeting;back
+street level;一階<br>いっかい;front
+一階;street level<br>いっかい;back
+front desk;うけつけ;front
+うけつけ;front desk;back
+nice to meet you, glad to work with you;よろしくおねがいします;front
+よろしくおねがいします;nice to meet you, glad to work with you;back
+which floor;何階<br>なんかい;front
+何階;which floor<br>なんかい;back

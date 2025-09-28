@@ -1,0 +1,18 @@
+song;うた
+wine;ワイン
+steak;ステーキ
+director;かんとく
+popcorn;ポップコーン
+movie theater;えいがかん
+hot dog;ホットドッグ
+am going to reserve, book, will reserve;よやくします
+blouse;ブラウス
+suit;スーツ
+wears, wear, comes;きます
+watch;うでどけい
+necklace;ネックレス
+present;プレゼント
+well, lively, fine;げんき
+birthday;たんじょうび
+people, human, someone;人;ひと
+date;デート

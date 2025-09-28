@@ -1,0 +1,23 @@
+countdown;カウントダウン
+Christmas;クリスマス
+New Year's Eve;おおみそか
+lights display;イルミネーション
+December;十二月;じゅうにがつ
+parade;パレード
+Halloween;ハロウィン
+party;パーティー
+October;十月;じゅうがつ
+thirty-first;三十一日;さんじゅういちにち
+dance;ダンス
+community center, Community center;コミュニティーセンター
+contest;コンテスト
+taiko drum;たいこ
+do you want to eat, won't you eat, would you like to eat;食べませんか;たべませんか
+chocolate covered bananas, chocolate covered banana;チョコバナナ
+food;食べ物;たべもの
+festival;おまつり
+August;八月;はちがつ
+fireworks display;はなびたいかい
+play;あそびませんか
+do you want to go, would you like to go, why don't we go;行きませんか;いきませんか
+this weekend;こんしゅうまつ

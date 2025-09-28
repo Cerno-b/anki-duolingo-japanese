@@ -1,3 +1,182 @@
+# S02U29
+song;うた;front
+うた;song;back
+wine;ワイン;front
+ワイン;wine;back
+steak;ステーキ;front
+ステーキ;steak;back
+director;かんとく;front
+かんとく;director;back
+popcorn;ポップコーン;front
+ポップコーン;popcorn;back
+movie theater;えいがかん;front
+えいがかん;movie theater;back
+hot dog;ホットドッグ;front
+ホットドッグ;hot dog;back
+am going to reserve, book, will reserve;よやくします;front
+よやくします;am going to reserve, book, will reserve;back
+blouse;ブラウス;front
+ブラウス;blouse;back
+suit;スーツ;front
+スーツ;suit;back
+wears, wear, comes;きます;front
+きます;wears, wear, comes;back
+watch;うでどけい;front
+うでどけい;watch;back
+necklace;ネックレス;front
+ネックレス;necklace;back
+present;プレゼント;front
+プレゼント;present;back
+well, lively, fine;げんき;front
+げんき;well, lively, fine;back
+birthday;たんじょうび;front
+たんじょうび;birthday;back
+people, human, someone;人<br>ひと;front
+人;people, human, someone<br>ひと;back
+date;デート;front
+デート;date;back
+# S02U28
+countdown;カウントダウン;front
+カウントダウン;countdown;back
+Christmas;クリスマス;front
+クリスマス;Christmas;back
+New Year's Eve;おおみそか;front
+おおみそか;New Year's Eve;back
+lights display;イルミネーション;front
+イルミネーション;lights display;back
+December;十二月<br>じゅうにがつ;front
+十二月;December<br>じゅうにがつ;back
+parade;パレード;front
+パレード;parade;back
+Halloween;ハロウィン;front
+ハロウィン;Halloween;back
+party;パーティー;front
+パーティー;party;back
+October;十月<br>じゅうがつ;front
+十月;October<br>じゅうがつ;back
+thirty-first;三十一日<br>さんじゅういちにち;front
+三十一日;thirty-first<br>さんじゅういちにち;back
+dance;ダンス;front
+ダンス;dance;back
+community center, Community center;コミュニティーセンター;front
+コミュニティーセンター;community center, Community center;back
+contest;コンテスト;front
+コンテスト;contest;back
+taiko drum;たいこ;front
+たいこ;taiko drum;back
+do you want to eat, won't you eat, would you like to eat;食べませんか<br>たべませんか;front
+食べませんか;do you want to eat, won't you eat, would you like to eat<br>たべませんか;back
+chocolate covered bananas, chocolate covered banana;チョコバナナ;front
+チョコバナナ;chocolate covered bananas, chocolate covered banana;back
+food;食べ物<br>たべもの;front
+食べ物;food<br>たべもの;back
+festival;おまつり;front
+おまつり;festival;back
+August;八月<br>はちがつ;front
+八月;August<br>はちがつ;back
+fireworks display;はなびたいかい;front
+はなびたいかい;fireworks display;back
+play;あそびませんか;front
+あそびませんか;play;back
+do you want to go, would you like to go, why don't we go;行きませんか<br>いきませんか;front
+行きませんか;do you want to go, would you like to go, why don't we go<br>いきませんか;back
+this weekend;こんしゅうまつ;front
+こんしゅうまつ;this weekend;back
+
+# S02U27
+article, post;きじ;front
+きじ;article, post;back
+blog;ブログ;front
+ブログ;blog;back
+fashion;ファッション;front
+ファッション;fashion;back
+to make;作ります<br>つくります;front
+作ります;to make<br>つくります;back
+to write;書きます<br>かきます;front
+書きます;to write<br>かきます;back
+ballet;バレエ;front
+バレエ;ballet;back
+lesson;レッスン;front
+レッスン;lesson;back
+performance;パフォーマンス;front
+パフォーマンス;performance;back
+to dance;おどります;front
+おどります;to dance;back
+to begin;はじまります;front
+はじまります;to begin;back
+tonight (night);こんや;front
+こんや;tonight (night);back
+kanji;かんじ;front
+かんじ;kanji;back
+hiragana;ひらがな;front
+ひらがな;hiragana;back
+to study;べんきょうします;front
+べんきょうします;to study;back
+piano;ピアノ;front
+ピアノ;piano;back
+nine hours;九時間<br>くじかん;front
+九時間;nine hours<br>くじかん;back
+instrument;がっき;front
+がっき;instrument;back
+guitar;ギター;front
+ギター;guitar;back
+play (stringed instrument);ひきます;front
+ひきます;play (stringed instrument);back
+how many hours;何時間<br>なんじかん;front
+何時間;how many hours<br>なんじかん;back
+practice;れんしゅう;front
+れんしゅう;practice;back
+badminton;バドミントン;front
+バドミントン;badminton;back
+game, match;しあい;front
+しあい;game, match;back
+four hours;四時間<br>よじかん;front
+四時間;four hours<br>よじかん;back
+
+# S02U26
+bar;バー;front
+バー;bar;back
+karaoke;カラオケ;front
+カラオケ;karaoke;back
+last;さいご;front
+さいご;last;back
+sing, will sing, am going to sing;うたいます;front
+うたいます;sing, will sing, am going to sing;back
+client;クライアント;front
+クライアント;client;back
+presentation;プレゼン;front
+プレゼン;presentation;back
+computer;パソコン;front
+パソコン;computer;back
+through, even, before;まで;front
+まで;through, even, before;back
+lunch break;ひる休み<br>ひるやすみ;front
+ひる休み;lunch break<br>ひるやすみ;back
+cafeteria;しょくどう;front
+しょくどう;cafeteria;back
+the second floor;二階<br>にかい;front
+二階;the second floor<br>にかい;back
+fried rice;チャーハン;front
+チャーハン;fried rice;back
+french fries;フライドポテト;front
+フライドポテト;french fries;back
+job training;トレーニング;front
+トレーニング;job training;back
+printer;プリンター;front
+プリンター;printer;back
+because, starting, through;から;front
+から;because, starting, through;back
+meeting;ミーティング;front
+ミーティング;meeting;back
+street level;一階<br>いっかい;front
+一階;street level<br>いっかい;back
+front desk;うけつけ;front
+うけつけ;front desk;back
+nice to meet you, glad to work with you;よろしくおねがいします;front
+よろしくおねがいします;nice to meet you, glad to work with you;back
+which floor;何階<br>なんかい;front
+何階;which floor<br>なんかい;back
+
 # S02U25
 documentary;ドキュメンタリー;front
 ドキュメンタリー;documentary;back

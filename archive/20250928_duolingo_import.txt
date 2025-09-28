@@ -1,0 +1,36 @@
+song;うた;front
+うた;song;back
+wine;ワイン;front
+ワイン;wine;back
+steak;ステーキ;front
+ステーキ;steak;back
+director;かんとく;front
+かんとく;director;back
+popcorn;ポップコーン;front
+ポップコーン;popcorn;back
+movie theater;えいがかん;front
+えいがかん;movie theater;back
+hot dog;ホットドッグ;front
+ホットドッグ;hot dog;back
+am going to reserve, book, will reserve;よやくします;front
+よやくします;am going to reserve, book, will reserve;back
+blouse;ブラウス;front
+ブラウス;blouse;back
+suit;スーツ;front
+スーツ;suit;back
+wears, wear, comes;きます;front
+きます;wears, wear, comes;back
+watch;うでどけい;front
+うでどけい;watch;back
+necklace;ネックレス;front
+ネックレス;necklace;back
+present;プレゼント;front
+プレゼント;present;back
+well, lively, fine;げんき;front
+げんき;well, lively, fine;back
+birthday;たんじょうび;front
+たんじょうび;birthday;back
+people, human, someone;人<br>ひと;front
+人;people, human, someone<br>ひと;back
+date;デート;front
+デート;date;back

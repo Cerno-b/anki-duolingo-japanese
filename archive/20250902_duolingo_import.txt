@@ -1,0 +1,48 @@
+article, post;きじ;front
+きじ;article, post;back
+blog;ブログ;front
+ブログ;blog;back
+fashion;ファッション;front
+ファッション;fashion;back
+to make;作ります<br>つくります;front
+作ります;to make<br>つくります;back
+to write;書きます<br>かきます;front
+書きます;to write<br>かきます;back
+ballet;バレエ;front
+バレエ;ballet;back
+lesson;レッスン;front
+レッスン;lesson;back
+performance;パフォーマンス;front
+パフォーマンス;performance;back
+to dance;おどります;front
+おどります;to dance;back
+to begin;はじまります;front
+はじまります;to begin;back
+tonight (night);こんや;front
+こんや;tonight (night);back
+kanji;かんじ;front
+かんじ;kanji;back
+hiragana;ひらがな;front
+ひらがな;hiragana;back
+to study;べんきょうします;front
+べんきょうします;to study;back
+piano;ピアノ;front
+ピアノ;piano;back
+nine hours;九時間<br>くじかん;front
+九時間;nine hours<br>くじかん;back
+instrument;がっき;front
+がっき;instrument;back
+guitar;ギター;front
+ギター;guitar;back
+play (stringed instrument);ひきます;front
+ひきます;play (stringed instrument);back
+how many hours;何時間<br>なんじかん;front
+何時間;how many hours<br>なんじかん;back
+practice;れんしゅう;front
+れんしゅう;practice;back
+badminton;バドミントン;front
+バドミントン;badminton;back
+game, match;しあい;front
+しあい;game, match;back
+four hours;四時間<br>よじかん;front
+四時間;four hours<br>よじかん;back

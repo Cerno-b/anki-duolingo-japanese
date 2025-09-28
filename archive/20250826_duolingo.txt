@@ -1,0 +1,21 @@
+bar;バー
+karaoke;カラオケ
+last;さいご
+sing, will sing, am going to sing;うたいます
+client;クライアント
+presentation;プレゼン
+computer;パソコン
+through, even, before;まで
+lunch break;ひる休み;ひるやすみ
+cafeteria;しょくどう
+the second floor;二階;にかい
+fried rice;チャーハン
+french fries;フライドポテト
+job training;トレーニング
+printer;プリンター
+because, starting, through;から
+meeting;ミーティング
+street level;一階;いっかい
+front desk;うけつけ
+nice to meet you, glad to work with you;よろしくおねがいします
+which floor;何階;なんかい

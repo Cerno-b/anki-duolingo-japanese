@@ -1,0 +1,46 @@
+countdown;カウントダウン;front
+カウントダウン;countdown;back
+Christmas;クリスマス;front
+クリスマス;Christmas;back
+New Year's Eve;おおみそか;front
+おおみそか;New Year's Eve;back
+lights display;イルミネーション;front
+イルミネーション;lights display;back
+December;十二月<br>じゅうにがつ;front
+十二月;December<br>じゅうにがつ;back
+parade;パレード;front
+パレード;parade;back
+Halloween;ハロウィン;front
+ハロウィン;Halloween;back
+party;パーティー;front
+パーティー;party;back
+October;十月<br>じゅうがつ;front
+十月;October<br>じゅうがつ;back
+thirty-first;三十一日<br>さんじゅういちにち;front
+三十一日;thirty-first<br>さんじゅういちにち;back
+dance;ダンス;front
+ダンス;dance;back
+community center, Community center;コミュニティーセンター;front
+コミュニティーセンター;community center, Community center;back
+contest;コンテスト;front
+コンテスト;contest;back
+taiko drum;たいこ;front
+たいこ;taiko drum;back
+do you want to eat, won't you eat, would you like to eat;食べませんか<br>たべませんか;front
+食べませんか;do you want to eat, won't you eat, would you like to eat<br>たべませんか;back
+chocolate covered bananas, chocolate covered banana;チョコバナナ;front
+チョコバナナ;chocolate covered bananas, chocolate covered banana;back
+food;食べ物<br>たべもの;front
+食べ物;food<br>たべもの;back
+festival;おまつり;front
+おまつり;festival;back
+August;八月<br>はちがつ;front
+八月;August<br>はちがつ;back
+fireworks display;はなびたいかい;front
+はなびたいかい;fireworks display;back
+play;あそびませんか;front
+あそびませんか;play;back
+do you want to go, would you like to go, why don't we go;行きませんか<br>いきませんか;front
+行きませんか;do you want to go, would you like to go, why don't we go<br>いきませんか;back
+this weekend;こんしゅうまつ;front
+こんしゅうまつ;this weekend;back

@@ -1,0 +1,24 @@
+article, post;きじ
+blog;ブログ
+fashion;ファッション
+to make;作ります;つくります
+to write;書きます;かきます
+ballet;バレエ
+lesson;レッスン
+performance;パフォーマンス
+to dance;おどります
+to begin;はじまります
+tonight (night);こんや
+kanji;かんじ
+hiragana;ひらがな
+to study;べんきょうします
+piano;ピアノ
+nine hours;九時間;くじかん
+instrument;がっき
+guitar;ギター
+play (stringed instrument);ひきます
+how many hours;何時間;なんじかん
+practice;れんしゅう
+badminton;バドミントン
+game, match;しあい
+four hours;四時間;よじかん
