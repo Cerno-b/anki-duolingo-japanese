@@ -1,0 +1,21 @@
+south exit;みなみぐち
+beverage, drink, drinks;飲み物;のみもの
+(will) call, calls, going to call;よびます
+going to relax;ゆっくりします
+tour;ツアー
+information desk;インフォメーション
+800;八百;はっぴゃく
+pay, going to pay, will pay;はらいます
+escalator;エスカレーター
+north exit;きたぐち
+number three;三ばん;さんばん
+switching, going to transfer, are switching;のりかえます
+rapid-service;かいそく
+number two;二ばん;にばん
+orange;オレンジ
+(we) are, (will) get off, getting off;おります
+number one;一ばん;いちばん
+ticket area;きっぷうりば
+monorail;モノレール
+300, three hundred;三百;さんびゃく
+take, ride, getting on;のります

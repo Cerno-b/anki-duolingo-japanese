@@ -1,0 +1,42 @@
+south exit;みなみぐち;front
+みなみぐち;south exit;back
+beverage, drink, drinks;飲み物<br>のみもの;front
+飲み物;beverage, drink, drinks<br>のみもの;back
+(will) call, calls, going to call;よびます;front
+よびます;(will) call, calls, going to call;back
+going to relax;ゆっくりします;front
+ゆっくりします;going to relax;back
+tour;ツアー;front
+ツアー;tour;back
+information desk;インフォメーション;front
+インフォメーション;information desk;back
+800;八百<br>はっぴゃく;front
+八百;800<br>はっぴゃく;back
+pay, going to pay, will pay;はらいます;front
+はらいます;pay, going to pay, will pay;back
+escalator;エスカレーター;front
+エスカレーター;escalator;back
+north exit;きたぐち;front
+きたぐち;north exit;back
+number three;三ばん<br>さんばん;front
+三ばん;number three<br>さんばん;back
+switching, going to transfer, are switching;のりかえます;front
+のりかえます;switching, going to transfer, are switching;back
+rapid-service;かいそく;front
+かいそく;rapid-service;back
+number two;二ばん<br>にばん;front
+二ばん;number two<br>にばん;back
+orange;オレンジ;front
+オレンジ;orange;back
+(we) are, (will) get off, getting off;おります;front
+おります;(we) are, (will) get off, getting off;back
+number one;一ばん<br>いちばん;front
+一ばん;number one<br>いちばん;back
+ticket area;きっぷうりば;front
+きっぷうりば;ticket area;back
+monorail;モノレール;front
+モノレール;monorail;back
+300, three hundred;三百<br>さんびゃく;front
+三百;300, three hundred<br>さんびゃく;back
+take, ride, getting on;のります;front
+のります;take, ride, getting on;back
