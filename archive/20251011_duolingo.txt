@@ -1,0 +1,22 @@
+chess;チェス
+volunteer;ボランティア
+club;サークル
+board game;ボードゲーム
+campus;キャンパス
+roommate;ルームメイト
+dorm;りょう
+station;駅;えき
+Tagalog;タガログご
+language;げんご
+Germany, German;ドイツ
+the Philippines;フィリピン
+math;すうがく
+business;ビジネス
+field of study;せんこう
+fourth year student;四年生;よねんせい
+third year student;三年生;さんねんせい
+Sam;サム
+Kai;かい
+second year student;二年生;にねんせい
+first year student;一年生;いちねんせい
+what school year;何年生;なんねんせい

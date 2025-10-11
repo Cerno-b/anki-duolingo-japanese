@@ -1,0 +1,46 @@
+chess;チェス;front
+チェス;chess;back
+volunteer;ボランティア;front
+ボランティア;volunteer;back
+club, clubs;サークル;front
+サークル;club, clubs;back
+board game;ボードゲーム;front
+ボードゲーム;board game;back
+campus;キャンパス;front
+キャンパス;campus;back
+roommate, roommates;ルームメイト;front
+ルームメイト;roommate, roommates;back
+dorm;りょう;front
+りょう;dorm;back
+station, train station, stations;駅<br>えき;front
+駅;station, train station, stations<br>えき;back
+Tagalog;タガログご;front
+タガログご;Tagalog;back
+German;ドイツご;front
+ドイツご;German;back
+language, languages;げんご;front
+げんご;language, languages;back
+Germany, German;ドイツ;front
+ドイツ;Germany, German;back
+the Philippines;フィリピン;front
+フィリピン;the Philippines;back
+math;すうがく;front
+すうがく;math;back
+business;ビジネス;front
+ビジネス;business;back
+major;せんこう;front
+せんこう;major;back
+senior, seniors;四年生<br>よねんせい;front
+四年生;senior, seniors<br>よねんせい;back
+third grade student, junior;三年生<br>さんねんせい;front
+三年生;third grade student, junior<br>さんねんせい;back
+Sam;サム;front
+サム;Sam;back
+are you, will you, buy;かい;front
+かい;are you, will you, buy;back
+sophomore;二年生<br>にねんせい;front
+二年生;sophomore<br>にねんせい;back
+freshman;一年生<br>いちねんせい;front
+一年生;freshman<br>いちねんせい;back
+what school year;何年生<br>なんねんせい;front
+何年生;what school year<br>なんねんせい;back
