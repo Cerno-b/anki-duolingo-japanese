@@ -1,0 +1,52 @@
+fried dumpling, fried dumplings;ぎょうざ;front
+ぎょうざ;fried dumpling, fried dumplings;back
+change;おつり;front
+おつり;change;back
+seven (things), seven;七つ<br>ななつ;front
+七つ;seven (things), seven<br>ななつ;back
+in total;ぜんぶで;front
+ぜんぶで;in total;back
+cashier;かいけい;front
+かいけい;cashier;back
+a lot of, large, a lot;おおい;front
+おおい;a lot of, large, a lot;back
+shrimp;えび;front
+えび;shrimp;back
+six (things), six;六つ<br>むっつ;front
+六つ;six (things), six<br>むっつ;back
+salesperson, waiter;てんいん;front
+てんいん;salesperson, waiter;back
+napkin;ナプキン;front
+ナプキン;napkin;back
+mapo tofu;マーボーどうふ;front
+マーボーどうふ;mapo tofu;back
+bridges, chopsticks, bridge;はし;front
+はし;bridges, chopsticks, bridge;back
+spicy;からい;front
+からい;spicy;back
+soup;スープ;front
+スープ;soup;back
+five (things), five;五つ<br>いつつ;front
+五つ;five (things), five<br>いつつ;back
+welcome;いらっしゃいませ;front
+いらっしゃいませ;welcome;back
+oolong tea;ウーロンちゃ;front
+ウーロンちゃ;oolong tea;back
+two people, they, two;二人<br>ふたり;front
+二人;two people, they, two<br>ふたり;back
+how many people;なんめいさま;front
+なんめいさま;how many people;back
+menu;メニュー;front
+メニュー;menu;back
+four;四人<br>よにん;front
+四人;four<br>よにん;back
+cold;つめたい;front
+つめたい;cold;back
+bubble tea;タピオカティー;front
+タピオカティー;bubble tea;back
+Chinatown;ちゅうかがい;front
+ちゅうかがい;Chinatown;back
+Chinese food;ちゅうかりょうり;front
+ちゅうかりょうり;Chinese food;back
+opens, open;あきます;front
+あきます;opens, open;back

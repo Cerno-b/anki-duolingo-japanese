@@ -1,0 +1,42 @@
+corner;すみ;front
+すみ;corner;back
+colorful;カラフルな;front
+カラフルな;colorful;back
+four;よんひき;front
+よんひき;four;back
+chameleon;カメレオン;front
+カメレオン;chameleon;back
+how many;なんびき;front
+なんびき;how many;back
+three;さんびき;front
+さんびき;three;back
+room;へや;front
+へや;room;back
+mouths, (a) mouth, tastes;口<br>ぐち;front
+口;mouths, (a) mouth, tastes<br>ぐち;back
+tomato, tomatoes, (a) tomato;トマト;front
+トマト;tomato, tomatoes, (a) tomato;back
+ear;みみ;front
+みみ;ear;back
+dog;いぬ;front
+いぬ;dog;back
+two animals;にひき;front
+にひき;two animals;back
+hamster;ハムスター;front
+ハムスター;hamster;back
+brown;ちゃいろ;front
+ちゃいろ;brown;back
+pancake;パンケーキ;front
+パンケーキ;pancake;back
+eye;め;front
+め;eye;back
+one;いっぴき;front
+いっぴき;one;back
+cappuccinos, (a) cappuccino;カプチーノ;front
+カプチーノ;cappuccinos, (a) cappuccino;back
+popular;にんき;front
+にんき;popular;back
+animal;どうぶつ;front
+どうぶつ;animal;back
+cat;ねこ;front
+ねこ;cat;back

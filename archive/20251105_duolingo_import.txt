@@ -1,0 +1,40 @@
+seafood;シーフード;front
+シーフード;seafood;back
+beef;ぎゅうにく;front
+ぎゅうにく;beef;back
+pepper;こしょう;front
+こしょう;pepper;back
+bake, am going to bake, grill;やきます;front
+やきます;bake, am going to bake, grill;back
+outside, outdoors;そと;front
+そと;outside, outdoors;back
+cool;すずしい;front
+すずしい;cool;back
+view;けしき;front
+けしき;view;back
+(the) river, (the) rivers, rivers;川<br>かわ;front
+川;(the) river, (the) rivers, rivers<br>かわ;back
+going to enjoy;たのしみます;front
+たのしみます;going to enjoy;back
+rainy, (it) rains, rain;雨<br>あめ;front
+雨;rainy, (it) rains, rain<br>あめ;back
+dark;くらい;front
+くらい;dark;back
+picnic;ピクニック;front
+ピクニック;picnic;back
+barbecue;バーベキュー;front
+バーベキュー;barbecue;back
+one day, first, a day;一日<br>ついたち;front
+一日;one day, first, a day<br>ついたち;back
+May;五月<br>ごがつ;front
+五月;May<br>ごがつ;back
+sounds good, sound good;がいいです;front
+がいいです;sounds good, sound good;back
+camping;キャンプ;front
+キャンプ;camping;back
+hiking;ハイキング;front
+ハイキング;hiking;back
+backpack;バックパック;front
+バックパック;backpack;back
+Hokkaido;ほっかいどう;front
+ほっかいどう;Hokkaido;back

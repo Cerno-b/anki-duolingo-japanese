@@ -1,0 +1,21 @@
+corner;すみ
+colorful;カラフルな
+four;よんひき
+chameleon;カメレオン
+how many;なんびき
+three;さんびき
+room;へや
+mouths, (a) mouth, tastes;口;ぐち
+tomato, tomatoes, (a) tomato;トマト
+ear;みみ
+dog;いぬ
+two animals;にひき
+hamster;ハムスター
+brown;ちゃいろ
+pancake;パンケーキ
+eye;め
+one;いっぴき
+cappuccinos, (a) cappuccino;カプチーノ
+popular;にんき
+animal;どうぶつ
+cat;ねこ

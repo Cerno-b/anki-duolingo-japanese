@@ -1,0 +1,20 @@
+seafood;シーフード
+beef;ぎゅうにく
+pepper;こしょう
+bake, am going to bake, grill;やきます
+outside, outdoors;そと
+cool;すずしい
+view;けしき
+(the) river, (the) rivers, rivers;川;かわ
+going to enjoy;たのしみます
+rainy, (it) rains, rain;雨;あめ
+dark;くらい
+picnic;ピクニック
+barbecue;バーベキュー
+one day, first, a day;一日;ついたち
+May;五月;ごがつ
+sounds good, sound good;がいいです
+camping;キャンプ
+hiking;ハイキング
+backpack;バックパック
+Hokkaido;ほっかいどう
